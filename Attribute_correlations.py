@@ -8,8 +8,6 @@ import seaborn as sns
 
 df = ex.extract_df_dir("data\\all_seasons_DEF_normalized.csv")
 
-print(df)
-
 def ict_index(label, comp):
     sns.scatterplot(x = df["ict_index"], y = df[comp], alpha = 0.5)
     plt.title(label)
