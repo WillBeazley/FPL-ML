@@ -1,0 +1,10 @@
+sklearn
+pandas
+numpy
+pySimpleGUI
+matplotlib
+requests
+json
+time
+functools
+seaborn

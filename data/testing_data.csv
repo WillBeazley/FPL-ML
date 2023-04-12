@@ -1,0 +1,527 @@
+﻿,player_id,name,position,player_team_name,ict_index,opponent_team,opp_team_name,value,was_home,GW,creativity,influence,threat,transfers_in,transfers_out,chance_of_playing,form
+0,3,Xhaka,3,Arsenal,127.2,1,Leicester,49,False,25,500.7,434.4,336.0,835355,714772,,2.0
+1,5,Holding,2,Arsenal,0.3,1,Leicester,42,False,25,0.1,3.4,0.0,7032,18127,,0.2
+2,6,Partey,3,Arsenal,80.9,1,Leicester,47,False,25,293.1,342.8,172.0,99424,129886,75,1.0
+3,7,Ødegaard,3,Arsenal,191.9,1,Leicester,70,False,25,744.3,572.6,600.0,5160504,2682408,100,3.5
+4,8,Tierney,2,Arsenal,17.8,1,Leicester,46,False,25,57.1,75.4,45.0,75083,145856,100,0.2
+5,10,White,2,Arsenal,70.8,1,Leicester,47,False,25,299.2,348.2,61.0,2076299,1317194,,1.5
+6,11,Nketiah,4,Arsenal,83.9,1,Leicester,68,False,25,95.5,186.8,565.0,1785266,556709,,2.5
+7,12,Smith Rowe,3,Arsenal,6.8,1,Leicester,56,False,25,36.7,15.8,18.0,25796,148583,100,0.0
+8,13,Saka,3,Arsenal,212.8,1,Leicester,84,False,25,721.6,656.4,750.0,4586647,3016363,100,5.8
+9,14,Tomiyasu,2,Arsenal,24.1,1,Leicester,42,False,25,80.6,124.2,38.0,87630,214063,100,0.5
+10,15,Ramsdale,1,Arsenal,42.0,1,Leicester,49,False,25,0.0,418.4,0.0,1384027,1694257,100,2.0
+11,16,Gabriel,2,Arsenal,80.2,1,Leicester,52,False,25,62.0,475.6,264.0,2049542,1581215,,1.5
+12,19,Martinelli,3,Arsenal,186.6,1,Leicester,65,False,25,539.2,470.0,858.0,5738707,4616037,,3.0
+13,23,Nelson,3,Arsenal,20.1,1,Leicester,47,False,25,31.0,90.8,79.0,12806,14570,100,0.0
+14,24,Turner,1,Arsenal,0.0,1,Leicester,38,False,25,0.0,0.0,0.0,194353,192435,100,0.0
+15,25,Fábio Vieira,3,Arsenal,24.4,1,Leicester,56,False,25,77.5,92.6,75.0,19694,30212,100,1.8
+16,26,Saliba,2,Arsenal,62.8,1,Leicester,53,False,25,69.2,452.4,105.0,5274520,2329122,,1.5
+17,111,Trossard,3,Arsenal,159.3,1,Leicester,66,False,25,406.6,439.6,747.0,4555381,4089107,100,2.5
+18,130,Jorginho,3,Arsenal,57.0,1,Leicester,58,False,25,187.5,294.6,87.0,434582,576398,100,2.0
+19,313,Zinchenko,2,Arsenal,59.4,1,Leicester,51,False,25,215.7,241.0,137.0,2218525,3142612,100,2.8
+20,607,Smith,3,Arsenal,0.0,1,Leicester,45,False,25,0.0,0.0,0.0,13330,11427,,0.0
+21,630,Nwaneri,3,Arsenal,0.0,1,Leicester,45,False,25,0.0,0.0,0.0,1186,995,,0.0
+22,631,Sousa,2,Arsenal,0.0,1,Leicester,40,False,25,0.0,0.0,0.0,7225,5941,,0.0
+23,655,Hein,1,Arsenal,0.0,1,Leicester,40,False,25,0.0,0.0,0.0,2037,1491,,0.0
+24,668,Cozier-Duberry,3,Arsenal,0.0,1,Leicester,45,False,25,0.0,0.0,0.0,141,92,,0.0
+25,710,Kiwior,2,Arsenal,0.0,1,Leicester,40,False,25,0.0,0.0,0.0,584,273,,0.0
+26,29,Coutinho,3,Aston Villa,48.8,2,Everton,66,False,25,152.5,119.2,218.0,224268,1452966,100,3.3
+27,31,Martínez,1,Aston Villa,51.9,2,Everton,49,False,25,23.0,495.4,0.0,538796,758137,100,-0.3
+28,32,Chambers,2,Aston Villa,4.0,2,Everton,42,False,25,1.2,38.8,1.0,9029,25266,100,0.3
+29,33,Digne,2,Aston Villa,53.7,2,Everton,46,False,25,229.2,221.0,87.0,319490,585912,100,-0.3
+30,34,Traoré,3,Aston Villa,0.0,2,Everton,49,False,25,0.0,0.0,0.0,3140,19765,100,0.0
+31,35,Olsen,1,Aston Villa,6.9,2,Everton,39,False,25,0.0,69.8,0.0,112046,137490,100,0.0
+32,37,McGinn,3,Aston Villa,55.8,2,Everton,51,False,25,149.7,198.4,210.0,34345,164591,100,1.0
+33,39,Mings,2,Aston Villa,41.9,2,Everton,43,False,25,51.2,325.6,40.0,596996,855902,100,0.0
+34,40,Watkins,4,Aston Villa,142.4,2,Everton,72,False,25,257.4,422.4,745.0,958713,889030,100,8.7
+35,42,Buendía,3,Aston Villa,90.1,2,Everton,57,False,25,291.4,241.8,367.0,117119,128458,,2.7
+36,43,Cash,2,Aston Villa,42.9,2,Everton,46,False,25,167.8,200.2,61.0,206265,1563364,100,1.7
+37,44,Konsa,2,Aston Villa,44.1,2,Everton,44,False,25,64.6,342.8,32.0,68967,68521,100,0.0
+38,45,Bailey,3,Aston Villa,101.3,2,Everton,44,False,25,300.4,271.6,440.0,1008225,2182600,100,1.3
+39,46,Douglas Luiz,3,Aston Villa,89.2,2,Everton,48,False,25,384.2,377.8,130.0,91311,116652,100,2.7
+40,47,Ramsey,3,Aston Villa,71.6,2,Everton,52,False,25,233.4,281.2,201.0,142227,276163,100,1.3
+41,53,Kamara,3,Aston Villa,38.6,2,Everton,48,False,25,99.5,251.6,35.0,12936,24294,100,2.0
+42,479,Dendoncker,3,Aston Villa,25.6,2,Everton,47,False,25,89.8,104.6,59.0,8434,19244,100,0.7
+43,538,Young,2,Aston Villa,48.1,2,Everton,44,False,25,157.7,270.0,51.0,205726,157625,,0.3
+44,672,Kadan Young,3,Aston Villa,0.0,2,Everton,45,False,25,0.0,0.0,0.0,420,207,,0.0
+45,694,Álex Moreno,2,Aston Villa,17.9,2,Everton,44,False,25,76.9,58.2,49.0,24776,9612,,2.0
+46,707,Sinisalo,1,Aston Villa,0.0,2,Everton,40,False,25,0.0,0.0,0.0,487,155,,0.0
+47,711,Durán,4,Aston Villa,3.0,2,Everton,55,False,25,1.4,3.4,25.0,1975,608,,1.0
+48,744,Swinkels,2,Aston Villa,0.0,2,Everton,40,False,25,0.0,0.0,0.0,343,55,,0.0
+49,745,Zych,1,Aston Villa,0.0,2,Everton,40,False,25,0.0,0.0,0.0,160,28,,0.0
+50,57,Smith,2,Bournemouth,48.6,3,Man City,43,True,25,135.6,281.6,67.0,47071,51099,100,2.3
+51,58,Stanislas,3,Bournemouth,3.9,3,Man City,48,True,25,22.9,10.0,7.0,1881,10721,100,0.0
+52,59,Fredericks,2,Bournemouth,8.7,3,Man City,44,True,25,25.4,50.2,10.0,2961,5422,100,0.3
+53,62,Moore,4,Bournemouth,51.7,3,Man City,51,True,25,83.8,206.0,230.0,414513,387140,,0.0
+54,64,Lerma,3,Bournemouth,69.4,3,Man City,48,True,25,153.3,365.0,178.0,126367,153113,75,1.7
+55,65,Stacey,2,Bournemouth,6.0,3,Man City,43,True,25,8.6,44.0,8.0,2469,5786,,0.0
+56,66,Solanke,4,Bournemouth,91.1,3,Man City,55,True,25,131.6,272.8,512.0,1447231,1392877,100,2.3
+57,69,Christie,3,Bournemouth,59.5,3,Man City,53,True,25,198.7,154.0,241.0,6297,10818,,0.3
+58,70,Billing,3,Bournemouth,82.7,3,Man City,51,True,25,201.6,384.8,241.0,280945,269399,100,2.3
+59,71,Mepham,2,Bournemouth,47.0,3,Man City,44,True,25,37.1,375.6,58.0,28030,32372,100,1.3
+60,72,Travers,1,Bournemouth,25.4,3,Man City,42,True,25,0.0,253.0,0.0,62768,76312,,0.0
+61,75,Anthony,3,Bournemouth,59.2,3,Man City,52,True,25,155.3,226.8,208.0,10721,14333,,2.0
+62,76,Zemura,2,Bournemouth,51.6,3,Man City,43,True,25,215.9,232.8,69.0,37226,42137,75,3.3
+63,404,Stephens,2,Bournemouth,14.5,3,Man City,43,True,25,24.0,116.0,4.0,3153,5971,100,2.7
+64,505,Rothwell,3,Bournemouth,7.6,3,Man City,49,True,25,42.5,24.8,9.0,663,1136,100,0.7
+65,535,Tavernier,3,Bournemouth,93.8,3,Man City,47,True,25,267.9,322.8,347.0,153062,148573,75,3.0
+66,571,Randolph,1,Bournemouth,0.0,3,Man City,40,True,25,0.0,0.0,0.0,12825,11376,,0.0
+67,574,Neto,1,Bournemouth,32.7,3,Man City,45,True,25,0.0,326.2,0.0,55852,54309,100,5.7
+68,576,Senesi,2,Bournemouth,45.5,3,Man City,44,True,25,44.1,361.0,49.0,27943,24265,100,5.0
+69,649,Plain,1,Bournemouth,0.0,3,Man City,40,True,25,0.0,0.0,0.0,2087,1268,,0.0
+70,695,Adu-Adjei,4,Bournemouth,0.0,3,Man City,45,True,25,0.0,0.0,0.0,1106,511,,0.0
+71,696,Dacosta Gonzalez,3,Bournemouth,0.0,3,Man City,44,True,25,0.0,0.0,0.0,173,107,,0.0
+72,697,Sadi,4,Bournemouth,0.0,3,Man City,45,True,25,0.0,0.0,0.0,1354,631,,0.0
+73,705,Ouattara,3,Bournemouth,22.7,3,Man City,50,True,25,65.7,75.8,85.0,2906,801,,3.3
+74,706,Pollock,4,Bournemouth,0.0,3,Man City,45,True,25,0.0,0.0,0.0,785,299,,0.0
+75,714,Semenyo,4,Bournemouth,2.7,3,Man City,50,True,25,11.6,6.0,9.0,2190,664,,1.3
+76,718,Viña,2,Bournemouth,0.8,3,Man City,45,True,25,0.3,7.6,0.0,298,113,,0.7
+77,723,H.Traorè,3,Bournemouth,14.4,3,Man City,45,True,25,96.9,36.6,11.0,933,184,,2.7
+78,737,Greenwood,2,Bournemouth,0.0,3,Man City,40,True,25,0.0,0.0,0.0,709,189,,0.0
+79,738,Kinsey-Wellings,2,Bournemouth,0.0,3,Man City,40,True,25,0.0,0.0,0.0,154,67,,0.0
+80,79,Nørgaard,3,Brentford,56.4,4,Fulham,53,True,26,114.1,252.8,197.0,42651,59825,100,2.7
+81,80,Toney,4,Brentford,180.1,4,Fulham,77,True,26,290.4,632.4,880.0,8228594,5907545,100,4.0
+82,81,Raya,1,Brentford,74.4,4,Fulham,47,True,26,20.1,721.4,0.0,1499274,991911,,5.3
+83,83,Dasilva,3,Brentford,54.0,4,Fulham,41,True,26,161.0,241.6,137.0,1808934,1644518,,2.3
+84,84,Ajer,2,Brentford,15.1,4,Fulham,45,True,26,24.7,96.8,27.0,22655,18382,100,0.7
+85,85,Henry,2,Brentford,64.4,4,Fulham,45,True,26,229.8,299.2,114.0,314080,261971,100,5.0
+86,86,Janelt,3,Brentford,69.6,4,Fulham,55,True,26,149.9,336.0,209.0,35850,36299,100,3.3
+87,87,Ghoddos,3,Brentford,5.6,4,Fulham,48,True,26,20.8,18.4,17.0,1780,3155,,0.0
+88,88,Jensen,3,Brentford,100.1,4,Fulham,48,True,26,477.2,391.8,133.0,612689,548888,100,4.0
+89,89,Wissa,3,Brentford,58.3,4,Fulham,53,True,26,128.9,218.4,238.0,82291,85192,,3.3
+90,90,Roerslev,2,Brentford,28.4,4,Fulham,43,True,26,104.0,138.0,42.0,10456,10006,100,1.0
+91,92,Pinnock,2,Brentford,57.4,4,Fulham,44,True,26,47.4,363.8,163.0,49079,25493,100,3.3
+92,94,Baptiste,3,Brentford,19.8,4,Fulham,45,True,26,93.5,64.0,39.0,37384,55218,100,0.3
+93,95,Mbeumo,4,Brentford,126.2,4,Fulham,58,True,26,418.3,335.8,511.0,895243,816208,,6.3
+94,510,Hickey,2,Brentford,21.3,4,Fulham,49,True,26,33.3,110.4,69.0,41839,62539,100,2.7
+95,515,Lewis-Potter,3,Brentford,21.9,4,Fulham,52,True,26,64.0,42.0,114.0,3714,11665,100,0.3
+96,526,Mee,2,Brentford,70.5,4,Fulham,50,True,26,35.4,484.8,183.0,2160866,901408,,5.3
+97,580,Damsgaard,3,Brentford,21.1,4,Fulham,50,True,26,89.0,53.8,68.0,23903,24518,,0.7
+98,595,Zanka,2,Brentford,21.5,4,Fulham,40,True,26,16.4,159.6,36.0,241750,164609,,0.3
+99,632,Trevitt,3,Brentford,0.0,4,Fulham,44,True,26,0.0,0.0,0.0,1701,1405,,0.0
+100,633,Cox,1,Brentford,0.0,4,Fulham,39,True,26,0.0,0.0,0.0,8210,5343,,0.0
+101,646,Crama,2,Brentford,0.0,4,Fulham,40,True,26,0.0,0.0,0.0,2547,1794,,0.0
+102,650,Yarmolyuk,3,Brentford,0.0,4,Fulham,45,True,26,0.0,0.0,0.0,908,647,,0.0
+103,688,Schade,3,Brentford,2.6,4,Fulham,49,True,26,5.8,2.4,17.0,428,280,,0.7
+104,102,Steele,1,Brighton,0.0,5,West Ham,39,True,26,0.0,0.0,0.0,52552,71709,,0.0
+105,104,Groß,3,Brighton,155.5,5,West Ham,55,True,26,688.1,512.6,354.0,4041830,3428612,,2.3
+106,106,Dunk,2,Brighton,53.7,5,West Ham,47,True,26,56.3,368.0,113.0,1158879,905175,,3.3
+107,107,March,3,Brighton,170.4,5,West Ham,51,True,26,549.9,505.6,648.0,1149453,509661,,5.0
+108,108,Webster,2,Brighton,36.3,5,West Ham,45,True,26,59.0,213.6,91.0,186338,176417,100,3.0
+109,109,Veltman,2,Brighton,50.2,5,West Ham,46,True,26,139.9,297.2,63.0,901827,757749,100,3.0
+110,113,Sánchez,1,Brighton,42.7,5,West Ham,46,True,26,0.1,426.8,0.0,1743488,1713212,,4.0
+111,114,Lamptey,2,Brighton,20.6,5,West Ham,42,True,26,86.9,70.6,48.0,95758,229895,100,2.7
+112,116,Mac Allister,3,Brighton,109.0,5,West Ham,54,True,26,339.8,400.6,349.0,1367772,1221245,100,1.0
+113,119,Sarmiento,3,Brighton,12.5,5,West Ham,45,True,26,37.1,43.8,50.0,6181,11587,100,1.3
+114,120,Caicedo,3,Brighton,87.1,5,West Ham,50,True,26,379.3,345.2,145.0,73017,66655,100,1.3
+115,123,Undav,4,Brighton,28.6,5,West Ham,51,True,26,71.4,22.6,194.0,33692,89948,,1.3
+116,124,Mitoma,3,Brighton,92.3,5,West Ham,54,True,26,213.1,316.0,393.0,1725459,286385,100,5.0
+117,125,Enciso,4,Brighton,12.2,5,West Ham,47,True,26,12.6,18.6,93.0,42315,65762,,0.3
+118,544,Van Hecke,2,Brighton,2.7,5,West Ham,40,True,26,3.6,13.2,10.0,29603,34595,100,0.0
+119,586,Estupiñán,2,Brighton,76.3,5,West Ham,47,True,26,346.5,290.2,126.0,724992,255433,,7.0
+120,596,Ferguson,4,Brighton,32.6,5,West Ham,46,True,26,44.0,145.8,135.0,379017,189139,100,1.0
+121,651,Moran,3,Brighton,0.0,5,West Ham,45,True,26,0.0,0.0,0.0,1016,678,,0.0
+122,677,Hinshelwood,3,Brighton,0.0,5,West Ham,45,True,26,0.0,0.0,0.0,140,79,,0.0
+123,679,Buonanotte,3,Brighton,1.2,5,West Ham,45,True,26,11.6,1.2,1.0,315,174,100,0.7
+124,719,Ayari,3,Brighton,0.0,5,West Ham,45,True,26,0.0,0.0,0.0,277,71,,0.0
+125,736,Offiah,2,Brighton,0.0,5,West Ham,40,True,26,0.0,0.0,0.0,231,83,,0.0
+126,48,Chukwuemeka,3,Chelsea,15.2,6,Spurs,43,False,25,49.3,38.0,64.0,72745,109043,100,0.0
+127,112,Cucurella,2,Chelsea,54.3,6,Spurs,51,False,25,190.8,285.0,67.0,2255134,2363179,100,2.7
+128,127,Azpilicueta,2,Chelsea,47.4,6,Spurs,48,False,25,170.8,216.8,84.0,254990,319735,75,1.0
+129,128,Thiago Silva,2,Chelsea,70.9,6,Spurs,55,False,25,66.1,535.0,108.0,1113003,907258,100,2.7
+130,132,Kovacic,3,Chelsea,38.0,6,Spurs,49,False,25,180.5,139.2,59.0,48837,107636,100,0.3
+131,133,Arrizabalaga,1,Chelsea,39.2,6,Spurs,47,False,25,0.1,391.0,0.0,1544317,630717,100,4.7
+132,135,Ziyech,3,Chelsea,36.8,6,Spurs,55,False,25,176.4,105.8,86.0,59017,88177,100,0.7
+133,136,Loftus-Cheek,3,Chelsea,42.6,6,Spurs,50,False,25,134.0,137.2,153.0,32787,38378,100,1.0
+134,139,Chilwell,2,Chelsea,23.9,6,Spurs,58,False,25,75.9,108.2,54.0,561068,811598,100,1.3
+135,141,Chalobah,2,Chelsea,23.8,6,Spurs,45,False,25,27.1,151.0,59.0,147767,166386,100,0.3
+136,142,Mount,3,Chelsea,115.8,6,Spurs,73,False,25,455.5,326.0,375.0,2152821,2634627,,2.0
+137,145,Havertz,4,Chelsea,123.1,6,Spurs,76,False,25,311.4,314.6,608.0,1081268,1163477,,1.7
+138,146,James,2,Chelsea,49.8,6,Spurs,58,False,25,195.2,182.6,119.0,3953242,6699939,100,1.0
+139,148,Gallagher,3,Chelsea,65.3,6,Spurs,56,False,25,260.9,211.6,181.0,71900,195280,100,1.3
+140,272,W.Fofana,2,Chelsea,11.3,6,Spurs,43,False,25,14.1,70.6,26.0,311848,421923,100,0.3
+141,304,Sterling,3,Chelsea,102.4,6,Spurs,97,False,25,329.9,252.2,442.0,1348654,1741436,100,0.7
+142,520,Koulibaly,2,Chelsea,49.5,6,Spurs,55,False,25,74.0,290.2,129.0,977132,1572408,100,0.0
+143,616,Zakaria,3,Chelsea,5.8,6,Spurs,49,False,25,9.7,23.6,24.0,9076,8331,100,0.0
+144,617,Aubameyang,4,Chelsea,21.0,6,Spurs,84,False,25,42.6,52.6,119.0,573466,544869,100,0.0
+145,635,Bettinelli,1,Chelsea,0.0,6,Spurs,40,False,25,0.0,0.0,0.0,3924,2770,,0.0
+146,653,Hutchinson,3,Chelsea,0.7,6,Spurs,43,False,25,1.8,1.0,4.0,1255,1066,,0.0
+147,661,Hall,3,Chelsea,16.5,6,Spurs,44,False,25,59.2,49.4,56.0,3966,2892,,0.0
+148,684,D.D.Fofana,4,Chelsea,6.1,6,Spurs,50,False,25,24.1,10.8,26.0,14754,8005,,0.7
+149,689,Badiashile,2,Chelsea,19.4,6,Spurs,50,False,25,35.8,107.2,50.0,144028,30332,,3.0
+150,690,João Félix,4,Chelsea,15.2,6,Spurs,76,False,25,49.2,54.8,48.0,510020,67711,100,3.7
+151,699,Mudryk,3,Chelsea,5.6,6,Spurs,68,False,25,8.0,20.0,30.0,456092,216032,,1.3
+152,702,Andrey Santos,3,Chelsea,0.0,6,Spurs,45,False,25,0.0,0.0,0.0,361,201,,0.0
+153,708,Madueke,3,Chelsea,12.8,6,Spurs,55,False,25,48.1,34.0,46.0,11175,3961,,1.7
+154,724,Enzo,3,Chelsea,12.2,6,Spurs,50,False,25,33.3,81.2,7.0,160177,23303,100,3.7
+155,18,Sambi,3,Crystal Palace,7.2,7,Liverpool,43,True,25,30.8,41.8,0.0,36941,50972,,1.3
+156,152,Guaita,1,Crystal Palace,59.9,7,Liverpool,44,True,25,0.0,600.2,0.0,487278,430067,,3.0
+157,153,Tomkins,2,Crystal Palace,10.4,7,Liverpool,39,True,25,0.8,67.0,35.0,153853,156798,100,3.0
+158,154,McArthur,3,Crystal Palace,0.0,7,Liverpool,48,True,25,0.0,0.0,0.0,766,1719,100,0.0
+159,156,Ward,2,Crystal Palace,32.0,7,Liverpool,44,True,25,52.1,230.8,36.0,64651,67765,50,0.0
+160,157,Clyne,2,Crystal Palace,26.8,7,Liverpool,45,True,25,86.5,173.8,8.0,18066,25428,100,1.7
+161,158,Milivojevic,3,Crystal Palace,8.7,7,Liverpool,42,True,25,35.4,41.4,12.0,53952,88084,,0.0
+162,159,J.Ayew,3,Crystal Palace,80.3,7,Liverpool,53,True,25,296.7,262.0,243.0,43209,58035,,1.7
+163,161,Schlupp,3,Crystal Palace,53.7,7,Liverpool,47,True,25,118.4,226.2,190.0,17127,26329,,3.3
+164,163,Hughes,3,Crystal Palace,11.9,7,Liverpool,48,True,25,26.9,58.6,38.0,1567,3636,100,0.7
+165,164,Riedewald,3,Crystal Palace,1.2,7,Liverpool,43,True,25,2.0,9.8,0.0,5285,8407,,0.0
+166,165,Andersen,2,Crystal Palace,69.8,7,Liverpool,45,True,25,56.7,443.0,196.0,415506,523084,100,0.3
+167,166,Edouard,4,Crystal Palace,80.5,7,Liverpool,51,True,25,162.6,258.4,387.0,742233,861205,100,1.3
+168,167,Guéhi,2,Crystal Palace,57.3,7,Liverpool,44,True,25,47.3,415.2,108.0,393858,469710,100,1.7
+169,168,Mateta,4,Crystal Palace,32.9,7,Liverpool,51,True,25,62.9,78.4,191.0,84663,130773,,1.7
+170,169,Eze,3,Crystal Palace,117.2,7,Liverpool,54,True,25,487.6,342.2,344.0,1000713,927208,,3.7
+171,170,Mitchell,2,Crystal Palace,48.9,7,Liverpool,44,True,25,133.1,258.6,95.0,129415,165674,75,2.3
+172,171,Olise,3,Crystal Palace,119.9,7,Liverpool,54,True,25,562.5,360.4,273.0,96279,80656,100,4.0
+173,174,Ferguson,2,Crystal Palace,0.0,7,Liverpool,39,True,25,0.0,0.0,0.0,29928,43937,25,0.0
+174,175,Johnstone,1,Crystal Palace,0.0,7,Liverpool,44,True,25,0.0,0.0,0.0,4523,11566,100,0.0
+175,514,C.Doucouré,3,Crystal Palace,68.6,7,Liverpool,50,True,25,247.6,329.8,106.0,19605,26030,100,3.0
+176,530,Richards,2,Crystal Palace,11.3,7,Liverpool,44,True,25,13.6,78.8,22.0,2885,7037,100,0.7
+177,590,Whitworth,1,Crystal Palace,0.0,7,Liverpool,40,True,25,0.0,0.0,0.0,15045,11280,,0.0
+178,601,Rodney,3,Crystal Palace,0.0,7,Liverpool,45,True,25,0.0,0.0,0.0,2468,2085,,0.0
+179,642,Balmer,2,Crystal Palace,0.0,7,Liverpool,40,True,25,0.0,0.0,0.0,6564,4131,,0.0
+180,644,Goodman,1,Crystal Palace,0.0,7,Liverpool,40,True,25,0.0,0.0,0.0,2015,1259,,0.0
+181,654,Wells-Morrison,3,Crystal Palace,0.0,7,Liverpool,45,True,25,0.0,0.0,0.0,407,257,,0.0
+182,676,Ozoh,3,Crystal Palace,0.1,7,Liverpool,45,True,25,0.8,0.0,0.0,173,93,,0.0
+183,725,Ahamada,3,Crystal Palace,1.0,7,Liverpool,45,True,25,1.2,1.4,10.0,266,68,,1.0
+184,110,Maupay,4,Everton,42.2,8,Aston Villa,59,True,25,77.2,64.0,282.0,159794,196339,,1.0
+185,176,Begović,1,Everton,3.6,8,Aston Villa,39,True,25,0.0,36.0,0.0,143740,118479,100,0.0
+186,178,Coleman,2,Everton,33.5,8,Aston Villa,44,True,25,64.1,207.6,61.0,82215,23003,100,8.0
+187,180,Keane,2,Everton,0.7,8,Aston Villa,42,True,25,0.3,6.4,0.0,13871,61259,100,0.0
+188,182,Pickford,1,Everton,65.6,8,Aston Villa,44,True,25,23.0,633.8,0.0,695679,735847,100,4.0
+189,185,A.Doucouré,3,Everton,14.9,8,Aston Villa,53,True,25,53.1,46.8,53.0,7940,24909,100,2.0
+190,186,Iwobi,3,Everton,118.6,8,Aston Villa,54,True,25,563.5,442.6,178.0,389516,274577,100,4.0
+191,188,Mina,2,Everton,12.6,8,Aston Villa,43,True,25,4.3,82.8,38.0,12356,24490,100,0.0
+192,189,Gray,3,Everton,122.2,8,Aston Villa,53,True,25,440.9,296.2,486.0,189041,221844,,0.3
+193,190,Davies,3,Everton,12.9,8,Aston Villa,49,True,25,34.6,34.0,61.0,4263,5829,100,0.7
+194,192,Holgate,2,Everton,15.6,8,Aston Villa,43,True,25,36.4,72.0,48.0,8289,18335,100,0.0
+195,193,Godfrey,2,Everton,6.7,8,Aston Villa,43,True,25,12.1,25.4,29.0,4010,13457,100,0.0
+196,194,Mykolenko,2,Everton,71.7,8,Aston Villa,43,True,25,242.5,373.6,98.0,223722,178718,,4.0
+197,197,Patterson,2,Everton,36.1,8,Aston Villa,39,True,25,78.1,178.8,102.0,1254801,1272922,75,0.0
+198,199,Tarkowski,2,Everton,108.7,8,Aston Villa,43,True,25,121.4,667.0,298.0,678306,244863,,8.0
+199,475,Coady,2,Everton,52.3,8,Aston Villa,49,True,25,57.6,376.8,88.0,878881,902519,100,4.0
+200,531,Vinagre,2,Everton,0.9,8,Aston Villa,43,True,25,1.4,7.6,0.0,1735,5634,,0.0
+201,534,McNeil,3,Everton,77.8,8,Aston Villa,51,True,25,332.8,252.4,190.0,31484,45312,,3.7
+202,560,Mills,3,Everton,0.0,8,Aston Villa,44,True,25,0.0,0.0,0.0,4276,4469,,0.0
+203,570,Garner,3,Everton,5.8,8,Aston Villa,45,True,25,5.3,19.8,31.0,12031,11057,75,0.0
+204,577,Onana,3,Everton,61.5,8,Aston Villa,48,True,25,171.8,243.4,202.0,56832,47514,75,2.3
+205,605,Welch,2,Everton,0.0,8,Aston Villa,40,True,25,0.0,0.0,0.0,5422,5006,,0.0
+206,611,Gueye,3,Everton,34.9,8,Aston Villa,49,True,25,104.9,228.2,17.0,13557,10232,100,2.7
+207,637,John,2,Everton,0.0,8,Aston Villa,40,True,25,0.0,0.0,0.0,3785,3077,,0.0
+208,678,Price,3,Everton,2.5,8,Aston Villa,45,True,25,15.6,9.6,0.0,316,204,,0.0
+209,686,Simms,4,Everton,3.2,8,Aston Villa,45,True,25,20.0,2.6,9.0,10171,2977,,1.0
+210,1,Cédric,2,Fulham,0.5,9,Wolves,42,True,25,1.7,2.8,0.0,7709,27635,100,0.3
+211,2,Leno,1,Fulham,74.2,9,Wolves,45,True,25,10.0,730.4,0.0,392199,251209,,6.2
+212,105,Duffy,2,Fulham,0.0,9,Wolves,43,True,25,0.0,0.2,0.0,4894,21914,100,0.0
+213,201,Ream,2,Fulham,57.1,9,Wolves,46,True,25,32.6,463.6,72.0,429158,133729,,6.2
+214,205,De Cordova-Reid,3,Fulham,98.2,9,Wolves,55,True,25,228.4,314.0,441.0,67340,63301,100,2.5
+215,209,Tosin,2,Fulham,32.2,9,Wolves,45,True,25,22.2,253.0,46.0,29471,32371,,0.0
+216,210,Mitrović,4,Fulham,169.7,9,Wolves,69,True,25,207.6,471.0,1030.0,7603741,6528604,75,1.5
+217,211,Reed,3,Fulham,75.8,9,Wolves,44,True,25,309.3,269.6,178.0,287507,286359,100,2.8
+218,212,Wilson,3,Fulham,14.3,9,Wolves,57,True,25,39.7,33.4,71.0,9949,17100,100,1.2
+219,213,Rodák,1,Fulham,1.9,9,Wolves,43,True,25,0.0,19.0,0.0,16556,24574,,0.0
+220,215,Tete,2,Fulham,72.8,9,Wolves,44,True,25,238.4,417.4,70.0,124010,95599,100,5.0
+221,217,Robinson,2,Fulham,63.1,9,Wolves,44,True,25,266.6,324.6,39.0,54555,40845,100,5.2
+222,220,Palhinha,3,Fulham,77.0,9,Wolves,49,True,25,73.6,424.6,269.0,77207,74023,100,2.0
+223,231,James,3,Fulham,31.5,9,Wolves,60,True,25,74.4,77.6,166.0,32983,33365,100,0.0
+224,346,Andreas,3,Fulham,146.6,9,Wolves,44,True,25,823.4,336.6,308.0,2926245,3195604,100,3.2
+225,470,Diop,2,Fulham,39.7,9,Wolves,43,True,25,20.2,298.6,78.0,68751,47995,,5.5
+226,546,Harris,3,Fulham,0.2,9,Wolves,44,True,25,1.6,0.6,0.0,5969,7964,,0.0
+227,562,Solomon,3,Fulham,13.7,9,Wolves,49,True,25,12.9,83.6,41.0,4135,1978,100,3.5
+228,591,Ablade,4,Fulham,0.0,9,Wolves,45,True,25,0.0,0.0,0.0,28151,24276,,0.0
+229,613,Kurzawa,2,Fulham,2.5,9,Wolves,43,True,25,4.5,20.2,0.0,8056,7480,100,0.2
+230,614,Willian,3,Fulham,92.7,9,Wolves,55,True,25,360.3,253.2,314.0,101343,68311,100,4.0
+231,618,Vinícius,4,Fulham,30.6,9,Wolves,54,True,25,64.3,68.6,174.0,34872,24063,,1.5
+232,636,Parkes,2,Fulham,0.0,9,Wolves,40,True,25,0.0,0.0,0.0,3894,2953,,0.0
+233,641,Godo,3,Fulham,0.0,9,Wolves,45,True,25,0.0,0.0,0.0,726,570,,0.0
+234,667,Sekularac,3,Fulham,0.0,9,Wolves,45,True,25,0.0,0.0,0.0,239,176,,0.0
+235,726,Lukic,3,Fulham,0.6,9,Wolves,45,True,25,1.8,0.0,4.0,356,120,,0.3
+236,250,Bertrand,2,Leicester,0.0,10,Arsenal,39,True,25,0.0,0.0,0.0,4113,5573,25,0.0
+237,252,Mendy,3,Leicester,13.1,10,Arsenal,43,True,25,32.3,79.6,18.0,48868,82405,100,3.0
+238,253,Vestergaard,2,Leicester,0.0,10,Arsenal,39,True,25,0.0,0.0,0.0,547337,886119,,0.0
+239,254,Ward,1,Leicester,54.3,10,Arsenal,40,True,25,0.0,544.2,0.0,2250539,1667409,,2.3
+240,255,Vardy,4,Leicester,56.8,10,Arsenal,91,True,25,129.9,172.4,270.0,259337,587870,100,1.0
+241,256,Ricardo,2,Leicester,0.0,10,Arsenal,43,True,25,0.0,0.2,0.0,1157,7144,100,0.3
+242,257,Amartey,2,Leicester,41.0,10,Arsenal,40,True,25,76.4,300.0,33.0,199834,156479,100,0.0
+243,258,Castagne,2,Leicester,89.7,10,Arsenal,44,True,25,258.8,426.4,208.0,1796916,1235076,100,2.0
+244,259,Tielemans,3,Leicester,97.8,10,Arsenal,61,True,25,386.9,425.2,165.0,222355,336504,100,0.7
+245,261,Maddison,3,Leicester,155.0,10,Arsenal,81,True,25,516.3,532.8,498.0,3172113,3273027,100,6.7
+246,262,Iheanacho,4,Leicester,60.2,10,Arsenal,61,True,25,152.5,206.0,247.0,173264,132691,,9.7
+247,264,Barnes,3,Leicester,126.0,10,Arsenal,67,True,25,200.6,385.0,675.0,402678,447881,100,5.3
+248,265,Ndidi,3,Leicester,24.0,10,Arsenal,48,True,25,36.8,165.0,40.0,22064,46705,100,0.3
+249,266,Dewsbury-Hall,3,Leicester,89.1,10,Arsenal,49,True,25,408.6,307.8,173.0,307890,366093,100,1.3
+250,267,Söyüncü,2,Leicester,1.5,10,Arsenal,42,True,25,0.3,15.0,0.0,15228,51865,100,0.0
+251,269,Soumaré,3,Leicester,18.6,10,Arsenal,44,True,25,49.6,134.0,1.0,69476,91088,100,0.3
+252,270,Thomas,2,Leicester,16.5,10,Arsenal,41,True,25,54.9,100.6,10.0,25482,25287,,0.3
+253,271,Daka,4,Leicester,64.2,10,Arsenal,56,True,25,135.5,211.6,297.0,226401,303823,100,0.0
+254,273,Brunt,2,Leicester,0.3,10,Arsenal,39,True,25,1.0,2.2,0.0,26697,34703,,0.0
+255,548,Iversen,1,Leicester,0.0,10,Arsenal,38,True,25,0.0,0.0,0.0,591406,583233,,0.0
+256,549,Praet,3,Leicester,11.9,10,Arsenal,48,True,25,16.1,68.6,34.0,1636,2869,100,2.7
+257,581,Smithies,1,Leicester,0.0,10,Arsenal,39,True,25,0.0,0.0,0.0,7986,6833,,0.0
+258,612,Faes,2,Leicester,42.6,10,Arsenal,42,True,25,48.3,336.0,41.0,58254,43172,,0.7
+259,645,Wormleighton,2,Leicester,0.0,10,Arsenal,40,True,25,0.0,0.0,0.0,1624,1280,,0.0
+260,709,Kristiansen,2,Leicester,12.7,10,Arsenal,45,True,25,55.2,65.0,7.0,1885,383,,1.3
+261,715,Tetê,3,Leicester,11.8,10,Arsenal,55,True,25,26.9,43.0,50.0,20472,5120,,4.0
+262,727,Souttar,2,Leicester,11.7,10,Arsenal,45,True,25,22.5,79.8,14.0,3723,373,100,1.3
+263,735,Marçal-Madivadua,3,Leicester,0.0,10,Arsenal,45,True,25,0.0,0.0,0.0,43,15,,0.0
+264,221,Cooper,2,Leeds,42.1,11,Southampton,44,True,25,49.3,236.6,138.0,12731,15277,50,0.5
+265,222,Ayling,2,Leeds,41.4,11,Southampton,45,True,25,95.4,211.2,107.0,45007,22823,100,1.5
+266,224,Forshaw,3,Leeds,4.2,11,Southampton,44,True,25,27.1,15.0,0.0,4529,8903,25,0.0
+267,227,Bamford,4,Leeds,56.0,11,Southampton,72,True,25,93.6,114.4,360.0,146446,226443,100,2.5
+268,230,Koch,2,Leeds,49.4,11,Southampton,45,True,25,32.6,363.4,98.0,18722,23451,100,1.0
+269,233,Harrison,3,Leeds,105.1,11,Southampton,58,True,25,485.8,269.6,297.0,895592,909840,100,2.2
+270,235,Struijk,2,Leeds,85.2,11,Southampton,45,True,25,187.8,428.4,234.0,277795,222941,75,0.5
+271,236,Klaesson,1,Leeds,0.0,11,Southampton,39,True,25,0.0,0.0,0.0,41121,40906,,0.0
+272,237,Greenwood,4,Leeds,39.2,11,Southampton,41,True,25,197.6,111.2,84.0,1896414,2869782,,1.0
+273,238,Meslier,1,Leeds,54.4,11,Southampton,45,True,25,0.0,542.8,0.0,271234,340135,100,2.2
+274,239,Firpo,2,Leeds,14.1,11,Southampton,45,True,25,60.3,74.2,6.0,3041,2572,100,0.8
+275,240,Summerville,3,Leeds,58.2,11,Southampton,42,True,25,111.3,231.0,242.0,286196,244801,100,2.8
+276,244,Kristensen,2,Leeds,46.8,11,Southampton,48,True,25,124.8,250.0,92.0,59799,91701,100,0.2
+277,245,Roca,3,Leeds,72.3,11,Southampton,48,True,25,233.3,288.6,202.0,19031,22748,50,0.2
+278,246,Aaronson,3,Leeds,93.4,11,Southampton,54,True,25,439.6,210.8,281.0,233924,280639,,0.8
+279,247,Gyabi,3,Leeds,2.5,11,Southampton,42,True,25,0.5,4.4,20.0,21334,21238,,0.0
+280,506,Adams,3,Leeds,68.2,11,Southampton,49,True,25,309.5,355.6,15.0,24065,31010,100,1.5
+281,508,Sinisterra,3,Leeds,36.0,11,Southampton,65,True,25,86.7,111.6,162.0,162898,168103,25,0.5
+282,565,Gray,3,Leeds,0.0,11,Southampton,45,True,25,0.0,0.0,0.0,7803,9648,25,0.0
+283,578,Robles,1,Leeds,0.0,11,Southampton,40,True,25,0.0,0.0,0.0,5171,4672,,0.0
+284,619,Gnonto,4,Leeds,58.1,11,Southampton,50,True,25,215.4,178.0,186.0,295623,85447,,3.5
+285,659,Mateo Joseph,4,Leeds,0.0,11,Southampton,45,True,25,0.1,0.0,0.0,4123,2722,,0.2
+286,663,Perkins,4,Leeds,0.0,11,Southampton,45,True,25,0.0,0.0,0.0,3347,2567,75,0.0
+287,691,Wöber,2,Leeds,15.2,11,Southampton,45,True,25,38.9,85.8,27.0,11689,4423,75,1.0
+288,700,Rutter,4,Leeds,3.3,11,Southampton,54,True,25,11.2,13.6,10.0,6585,3741,,1.0
+289,720,McKennie,3,Leeds,7.6,11,Southampton,49,True,25,32.0,34.6,9.0,7301,3074,,1.0
+290,742,Chilokoa-Mullen,2,Leeds,0.0,11,Southampton,40,True,25,0.0,0.0,0.0,95,20,,0.0
+291,743,Monteiro,2,Leeds,0.0,11,Southampton,40,True,25,0.0,0.0,0.0,158,42,,0.0
+292,274,Milner,3,Liverpool,36.8,12,Crystal Palace,44,False,25,155.2,125.6,86.0,151308,197847,100,1.0
+293,275,Henderson,3,Liverpool,47.1,12,Crystal Palace,53,False,25,219.1,143.4,106.0,52588,132967,100,1.7
+294,276,Matip,2,Liverpool,17.3,12,Crystal Palace,59,False,25,33.3,128.2,12.0,90786,255904,100,2.0
+295,278,Chamberlain,3,Liverpool,21.3,12,Crystal Palace,49,False,25,66.0,67.0,80.0,4617,4681,100,0.3
+296,279,Firmino,4,Liverpool,132.2,12,Crystal Palace,80,False,25,267.5,410.2,642.0,1824643,1781235,100,0.7
+297,280,Van Dijk,2,Liverpool,68.3,12,Crystal Palace,65,False,25,49.7,400.6,232.0,1239946,1980750,100,2.0
+298,281,Alisson,1,Liverpool,64.9,12,Crystal Palace,54,False,25,10.1,638.4,0.0,1431631,1921833,,5.0
+299,282,Fabinho,3,Liverpool,43.1,12,Crystal Palace,52,False,25,159.1,207.6,65.0,93469,154304,100,1.7
+300,283,Salah,3,Liverpool,200.2,12,Crystal Palace,126,False,25,511.4,498.6,992.0,3888425,7327467,,6.3
+301,284,Robertson,2,Liverpool,105.2,12,Crystal Palace,68,False,25,559.9,341.0,151.0,1246682,1788583,100,4.7
+302,285,Alexander-Arnold,2,Liverpool,124.0,12,Crystal Palace,73,False,25,678.1,393.8,169.0,2009625,5658530,100,6.3
+303,286,Gomez,2,Liverpool,34.3,12,Crystal Palace,43,False,25,41.2,281.0,20.0,567038,407167,,4.7
+304,287,Keita,3,Liverpool,15.6,12,Crystal Palace,47,False,25,81.6,21.6,54.0,9844,18078,100,1.0
+305,288,Diogo Jota,4,Liverpool,20.4,12,Crystal Palace,88,False,25,88.0,52.6,65.0,59008,83941,100,0.7
+306,289,Kelleher,1,Liverpool,0.0,12,Crystal Palace,40,False,25,0.0,0.0,0.0,12311,17726,100,0.0
+307,291,Jones,3,Liverpool,13.8,12,Crystal Palace,49,False,25,36.3,25.8,77.0,1394,2067,100,0.0
+308,292,Tsimikas,2,Liverpool,46.6,12,Crystal Palace,44,False,25,215.7,130.6,118.0,119194,116011,100,0.3
+309,294,Elliott,3,Liverpool,75.2,12,Crystal Palace,49,False,25,289.1,185.6,276.0,266948,246810,100,1.0
+310,296,Carvalho,3,Liverpool,29.5,12,Crystal Palace,51,False,25,35.7,89.0,173.0,121404,133492,100,0.0
+311,297,Darwin,4,Liverpool,142.3,12,Crystal Palace,87,False,25,236.2,327.2,872.0,3113693,4292375,75,4.0
+312,497,Adrián,1,Liverpool,0.0,12,Crystal Palace,39,False,25,0.0,0.0,0.0,50872,67558,,0.0
+313,501,Phillips,2,Liverpool,3.4,12,Crystal Palace,39,False,25,1.4,15.4,18.0,71439,69685,,0.0
+314,564,Bajcetic,3,Liverpool,18.8,12,Crystal Palace,44,False,25,54.5,77.8,56.0,21798,6209,,2.0
+315,584,Clark,3,Liverpool,0.2,12,Crystal Palace,45,False,25,0.3,0.0,2.0,1270,1279,,0.0
+316,592,H.Davies,1,Liverpool,0.0,12,Crystal Palace,40,False,25,0.0,0.0,0.0,1594,1685,,0.0
+317,620,Arthur,3,Liverpool,0.0,12,Crystal Palace,48,False,25,0.0,0.0,0.0,8368,8155,75,0.0
+318,665,Doak,3,Liverpool,1.2,12,Crystal Palace,45,False,25,1.4,5.6,4.0,753,545,,0.0
+319,680,Gakpo,3,Liverpool,28.4,12,Crystal Palace,78,False,25,47.0,91.6,147.0,519825,142645,100,5.3
+320,299,Walker,2,Man City,29.1,13,Bournemouth,48,False,25,130.9,138.2,22.0,1261318,1829823,100,1.5
+321,300,Gündogan,3,Man City,122.6,13,Bournemouth,73,False,25,462.5,337.6,428.0,739769,758580,,3.8
+322,301,De Bruyne,3,Man City,228.0,13,Bournemouth,124,False,25,1141.3,636.4,500.0,6061812,4433781,,4.5
+323,303,Mahrez,3,Man City,111.7,13,Bournemouth,78,False,25,411.2,335.4,372.0,1817179,854399,,3.8
+324,305,Grealish,3,Man City,117.0,13,Bournemouth,68,False,25,449.7,286.4,437.0,346407,463264,100,4.8
+325,307,Ederson,1,Man City,36.8,13,Bournemouth,54,False,25,13.1,355.0,0.0,1510589,1804102,,1.5
+326,308,Aké,2,Man City,44.7,13,Bournemouth,51,False,25,109.5,244.8,92.0,777444,418288,100,1.5
+327,309,Laporte,2,Man City,23.5,13,Bournemouth,57,False,25,74.1,96.0,66.0,93591,103909,100,1.0
+328,311,Bernardo,3,Man City,113.4,13,Bournemouth,68,False,25,405.7,400.0,328.0,1793077,2072115,,3.8
+329,312,Dias,2,Man City,37.4,13,Bournemouth,59,False,25,48.4,218.0,107.0,749463,1364776,100,1.0
+330,314,Foden,3,Man City,135.7,13,Bournemouth,80,False,25,437.5,424.8,495.0,4174275,4086336,100,1.0
+331,315,Rodri,3,Man City,138.8,13,Bournemouth,56,False,25,451.0,541.6,394.0,228139,360814,100,4.0
+332,316,Palmer,3,Man City,12.3,13,Bournemouth,43,False,25,49.3,21.0,52.0,15999,25630,100,0.0
+333,318,Haaland,4,Man City,250.3,13,Bournemouth,122,False,25,228.5,978.4,1300.0,5584890,1786628,100,3.5
+334,319,Álvarez,4,Man City,56.4,13,Bournemouth,60,False,25,122.1,178.6,264.0,472183,601399,100,1.0
+335,324,Ortega,1,Man City,0.0,13,Bournemouth,38,False,25,0.0,0.0,0.0,231167,169931,,0.0
+336,325,Phillips,3,Man City,0.9,13,Bournemouth,48,False,25,1.3,5.8,2.0,6799,48739,100,0.2
+337,502,Carson,1,Man City,0.0,13,Bournemouth,38,False,25,0.0,0.0,0.0,72978,51508,,0.0
+338,573,Lewis,2,Man City,18.0,13,Bournemouth,39,False,25,94.3,66.0,19.0,310673,105310,,0.5
+339,587,Sergio Gómez,2,Man City,9.4,13,Bournemouth,45,False,25,32.5,44.0,18.0,37615,37214,,0.0
+340,600,Knight,3,Man City,0.0,13,Bournemouth,45,False,25,0.0,0.0,0.0,766,718,,0.0
+341,610,Akanji,2,Man City,47.7,13,Bournemouth,50,False,25,82.7,244.6,149.0,639077,304804,,1.0
+342,712,Perrone,3,Man City,0.0,13,Bournemouth,44,False,25,0.0,0.0,0.0,86,55,,0.0
+343,162,Butland,1,Man Utd,0.0,14,Liverpool,44,False,26,0.0,0.0,0.0,3915,9859,100,0.0
+344,327,De Gea,1,Man Utd,54.1,14,Liverpool,50,False,26,10.0,528.8,0.0,1272807,1069347,,5.0
+345,328,Jones,2,Man Utd,0.0,14,Liverpool,39,False,26,0.0,0.0,0.0,77266,80509,,0.0
+346,329,Varane,2,Man Utd,39.5,14,Liverpool,48,False,26,48.6,278.2,67.0,505009,508378,100,0.2
+347,330,Maguire,2,Man Utd,20.0,14,Liverpool,47,False,26,18.0,135.8,47.0,29335,99638,75,2.0
+348,331,Fred,3,Man Utd,71.3,14,Liverpool,51,False,26,282.3,236.4,195.0,47003,114304,,2.5
+349,332,Shaw,2,Man Utd,81.5,14,Liverpool,54,False,26,347.7,375.2,91.0,3557783,752317,100,6.0
+350,333,Fernandes,3,Man Utd,216.9,14,Liverpool,98,False,26,935.3,644.8,589.0,2044377,1316739,100,6.8
+351,335,Rashford,3,Man Utd,192.7,14,Liverpool,73,False,26,292.4,660.0,973.0,7712718,3100410,100,10.8
+352,337,Lindelöf,2,Man Utd,12.2,14,Liverpool,41,False,26,7.5,113.4,0.0,25135,38555,100,2.2
+353,338,McTominay,3,Man Utd,27.3,14,Liverpool,49,False,26,53.5,135.0,89.0,22663,42818,100,0.2
+354,340,Sancho,3,Man Utd,73.2,14,Liverpool,71,False,26,276.5,225.4,230.0,620212,1332679,100,3.8
+355,341,Wan-Bissaka,2,Man Utd,26.1,14,Liverpool,43,False,26,105.5,125.2,30.0,203079,151931,100,1.0
+356,342,Dalot,2,Man Utd,87.3,14,Liverpool,47,False,26,330.2,324.0,219.0,2270573,2324860,100,4.5
+357,343,B.Williams,2,Man Utd,0.0,14,Liverpool,38,False,26,0.0,0.0,0.0,557742,494885,100,0.0
+358,344,Elanga,3,Man Utd,28.7,14,Liverpool,47,False,26,78.8,52.4,162.0,76648,139898,,0.5
+359,345,Martial,4,Man Utd,40.5,14,Liverpool,64,False,26,73.1,153.8,185.0,1242629,1342471,25,0.0
+360,347,Pellistri,3,Man Utd,0.0,14,Liverpool,43,False,26,1.2,0.0,0.0,2800,6620,100,0.2
+361,348,Heaton,1,Man Utd,0.0,14,Liverpool,39,False,26,0.0,0.0,0.0,19590,35681,,0.0
+362,504,Malacia,2,Man Utd,23.2,14,Liverpool,42,False,26,49.0,136.6,45.0,497652,576607,,1.8
+363,533,Martínez,2,Man Utd,63.6,14,Liverpool,45,False,26,102.7,462.6,68.0,1045349,842670,100,2.5
+364,551,Iqbal,3,Man Utd,0.0,14,Liverpool,42,False,26,0.0,0.0,0.0,51580,56883,,0.0
+365,569,Garnacho,3,Man Utd,35.0,14,Liverpool,42,False,26,43.1,116.0,192.0,238105,166054,,2.2
+366,593,Casemiro,3,Man Utd,80.4,14,Liverpool,49,False,26,238.5,390.6,174.0,635543,499814,100,-0.2
+367,609,Antony,3,Man Utd,66.2,14,Liverpool,73,False,26,144.0,175.2,344.0,1545230,1365881,25,0.2
+368,643,Mainoo,3,Man Utd,1.3,14,Liverpool,45,False,26,0.8,5.8,6.0,450,344,,0.2
+369,656,Bishop,1,Man Utd,0.0,14,Liverpool,40,False,26,0.0,0.0,0.0,851,630,,0.0
+370,674,Bennett,2,Man Utd,0.0,14,Liverpool,40,False,26,0.0,0.0,0.0,624,431,,0.0
+371,701,Weghorst,4,Man Utd,24.4,14,Liverpool,59,False,26,100.3,65.6,76.0,175988,101334,,2.2
+372,728,Sabitzer,3,Man Utd,13.7,14,Liverpool,50,False,26,66.5,52.0,18.0,12752,4771,,2.0
+373,195,Gordon,3,Newcastle,86.2,15,Man City,51,False,26,169.3,234.2,457.0,702272,751391,100,0.7
+374,350,Ritchie,2,Newcastle,0.6,15,Man City,42,False,26,1.6,4.2,0.0,3487,10420,100,0.3
+375,355,Dubravka,1,Newcastle,2.9,15,Man City,41,False,26,0.0,29.4,0.0,19798,91764,100,2.7
+376,356,Wilson,4,Newcastle,106.0,15,Man City,70,False,26,158.9,307.6,593.0,2438601,2471278,100,2.7
+377,357,Trippier,2,Newcastle,186.0,15,Man City,61,False,26,1185.4,591.4,81.0,6546630,1686739,100,1.7
+378,358,Burn,2,Newcastle,64.3,15,Man City,46,False,26,143.2,334.4,164.0,620340,357009,,1.7
+379,359,Fraser,3,Newcastle,17.2,15,Man City,52,False,26,74.0,26.8,70.0,11185,23642,100,0.0
+380,360,Lascelles,2,Newcastle,2.9,15,Man City,43,False,26,0.1,28.0,4.0,5704,14861,100,0.0
+381,362,Dummett,2,Newcastle,0.0,15,Man City,39,False,26,0.0,0.0,0.0,37618,68434,100,0.0
+382,363,Manquillo,2,Newcastle,0.3,15,Man City,42,False,26,0.1,2.4,0.0,3096,8009,25,0.0
+383,365,Murphy,3,Newcastle,43.3,15,Man City,42,False,26,123.1,103.8,205.0,424205,809094,,1.0
+384,366,Schär,2,Newcastle,93.5,15,Man City,52,False,26,157.7,425.2,350.0,3048456,1726283,100,1.7
+385,367,Targett,2,Newcastle,18.7,15,Man City,47,False,26,101.0,78.8,8.0,120277,208705,75,0.0
+386,368,Saint-Maximin,3,Newcastle,60.6,15,Man City,61,False,26,185.8,168.0,251.0,960862,1494257,100,2.0
+387,369,Almirón,3,Newcastle,150.0,15,Man City,55,False,26,284.1,512.6,701.0,5609400,2875270,100,4.3
+388,370,S.Longstaff,3,Newcastle,90.1,15,Man City,43,False,26,286.7,309.0,304.0,378143,370200,,4.3
+389,371,Joelinton,3,Newcastle,109.1,15,Man City,59,False,26,296.8,366.0,428.0,189011,198007,100,1.3
+390,372,Lewis,2,Newcastle,0.6,15,Man City,44,False,26,0.8,1.0,4.0,3607,5113,100,0.0
+391,373,Willock,3,Newcastle,98.9,15,Man City,47,False,26,283.1,294.6,411.0,164792,180963,75,0.7
+392,374,Bruno Guimarães,3,Newcastle,79.5,15,Man City,55,False,26,284.9,351.8,157.0,701244,1403298,100,0.0
+393,376,Pope,1,Newcastle,41.5,15,Man City,54,False,26,0.0,416.4,0.0,3652169,1907117,,0.7
+394,377,Botman,2,Newcastle,62.5,15,Man City,45,False,26,85.4,349.8,187.0,927266,590175,,1.3
+395,552,Anderson,3,Newcastle,17.5,15,Man City,44,False,26,46.3,31.8,98.0,23187,30652,100,1.0
+396,555,Ashby,2,Newcastle,0.0,15,Man City,38,False,26,0.0,0.0,0.0,57484,45207,,0.0
+397,594,Isak,4,Newcastle,48.4,15,Man City,66,False,26,85.1,144.0,255.0,1179812,1101262,100,1.3
+398,626,Karius,1,Newcastle,0.0,15,Man City,39,False,26,0.0,0.0,0.0,11438,7762,,0.0
+399,741,Miley,3,Newcastle,0.0,15,Man City,45,False,26,0.0,0.0,0.0,51,11,,0.0
+400,295,N.Williams,2,Nott'm Forest,61.0,16,West Ham,39,False,25,212.1,236.6,159.0,1904198,2667014,100,2.0
+401,349,Shelvey,3,Nott'm Forest,4.7,16,West Ham,48,False,25,27.2,19.6,0.0,1747,4936,100,1.0
+402,354,Wood,4,Nott'm Forest,36.8,16,West Ham,56,False,25,66.3,143.0,162.0,127901,220542,100,4.0
+403,378,Arter,3,Nott'm Forest,0.0,16,West Ham,41,False,25,0.0,0.0,0.0,49166,55094,,0.0
+404,379,Cook,2,Nott'm Forest,24.4,16,West Ham,43,False,25,39.3,177.4,28.0,11771,22206,100,0.0
+405,380,Lyle Taylor,4,Nott'm Forest,0.0,16,West Ham,42,False,25,0.0,0.0,0.0,613793,1266548,,0.0
+406,381,Colback,3,Nott'm Forest,7.7,16,West Ham,41,False,25,28.0,48.4,0.0,178837,263669,100,0.7
+407,383,Cafú,3,Nott'm Forest,0.3,16,West Ham,42,False,25,0.1,2.4,0.0,66335,89649,,0.0
+408,387,Yates,3,Nott'm Forest,47.0,16,West Ham,50,False,25,83.4,166.6,224.0,6361,9285,75,0.0
+409,388,Worrall,2,Nott'm Forest,33.5,16,West Ham,42,False,25,32.1,277.4,27.0,22267,22935,,0.7
+410,391,Surridge,4,Nott'm Forest,15.5,16,West Ham,47,False,25,14.4,57.8,90.0,133150,219827,,0.0
+411,394,Johnson,4,Nott'm Forest,102.8,16,West Ham,57,False,25,240.2,302.6,492.0,413086,386522,,4.3
+412,493,Gibbs-White,3,Nott'm Forest,133.8,16,West Ham,55,False,25,591.7,330.2,418.0,149539,132184,100,3.3
+413,518,Hennessey,1,Nott'm Forest,6.3,16,West Ham,39,False,25,0.0,62.2,0.0,114079,169046,100,0.0
+414,523,Toffolo,2,Nott'm Forest,20.3,16,West Ham,43,False,25,79.6,98.8,26.0,16590,23580,100,0.3
+415,524,O'Brien,3,Nott'm Forest,21.1,16,West Ham,48,False,25,56.4,107.8,47.0,5637,9172,100,0.0
+416,527,Lingard,3,Nott'm Forest,30.6,16,West Ham,54,False,25,139.0,44.4,123.0,189237,613268,50,0.0
+417,536,Mangala,3,Nott'm Forest,13.8,16,West Ham,49,False,25,38.2,63.0,38.0,2357,5375,100,1.0
+418,553,Hammond,3,Nott'm Forest,0.0,16,West Ham,43,False,25,0.0,0.0,0.0,3976,6094,,0.0
+419,582,Freuler,3,Nott'm Forest,36.6,16,West Ham,49,False,25,132.9,200.6,31.0,3764,3560,,2.3
+420,585,Dennis,4,Nott'm Forest,28.3,16,West Ham,56,False,25,57.5,72.6,156.0,54271,51468,100,0.3
+421,602,Renan Lodi,2,Nott'm Forest,34.1,16,West Ham,43,False,25,110.7,166.0,63.0,54210,37576,100,3.0
+422,628,Aurier,2,Nott'm Forest,52.0,16,West Ham,45,False,25,140.4,289.8,89.0,213938,105023,75,1.0
+423,681,Scarpa,3,Nott'm Forest,5.2,16,West Ham,49,False,25,17.0,12.4,23.0,1903,1183,,0.3
+424,703,Danilo,3,Nott'm Forest,5.2,16,West Ham,45,False,25,22.8,29.0,1.0,939,409,,0.3
+425,729,Navas,1,Nott'm Forest,8.3,16,West Ham,45,False,25,0.0,83.2,0.0,86606,12654,,4.7
+426,730,Felipe,2,Nott'm Forest,5.8,16,West Ham,45,False,25,1.8,47.6,8.0,1628,303,,1.0
+427,734,A.Ayew,3,Nott'm Forest,0.9,16,West Ham,50,False,25,0.5,8.4,0.0,464,172,,1.0
+428,21,Maitland-Niles,3,Southampton,23.8,17,Leeds,48,False,25,92.0,139.6,8.0,4970,8838,100,1.3
+429,321,Lavia,3,Southampton,27.4,17,Leeds,45,False,25,87.3,160.4,25.0,83908,100049,100,1.7
+430,400,Walcott,3,Southampton,8.1,17,Leeds,48,False,25,37.9,23.2,22.0,2757,4397,100,0.7
+431,401,McCarthy,1,Southampton,0.0,17,Leeds,43,False,25,0.0,0.0,0.0,6259,22265,100,0.0
+432,405,S.Armstrong,3,Southampton,45.7,17,Leeds,47,False,25,184.7,111.2,160.0,14629,21483,100,1.3
+433,406,Elyounoussi,3,Southampton,70.6,17,Leeds,52,False,25,231.7,182.6,296.0,6901,12289,,1.3
+434,407,Ward-Prowse,3,Southampton,151.8,17,Leeds,62,False,25,771.9,539.6,205.0,1015592,1372199,,4.3
+435,408,A.Armstrong,4,Southampton,49.6,17,Leeds,54,False,25,133.8,133.0,237.0,271019,288666,100,0.7
+436,409,Walker-Peters,2,Southampton,51.6,17,Leeds,44,False,25,167.2,231.2,118.0,143388,205252,100,0.0
+437,410,Bednarek,2,Southampton,17.9,17,Leeds,42,False,25,23.0,129.6,26.0,8165,37177,100,2.3
+438,411,Adams,4,Southampton,102.4,17,Leeds,62,False,25,277.9,277.0,477.0,506229,470368,75,1.0
+439,413,Lyanco,2,Southampton,21.8,17,Leeds,44,False,25,19.5,129.2,68.0,3472,5771,100,0.7
+440,416,Diallo,3,Southampton,12.7,17,Leeds,42,False,25,39.4,63.4,26.0,51260,90604,100,0.7
+441,417,Perraud,2,Southampton,69.4,17,Leeds,41,False,25,183.4,263.4,249.0,198713,145090,100,2.7
+442,418,Djenepo,3,Southampton,26.4,17,Leeds,50,False,25,90.6,113.2,58.0,16482,20468,100,0.0
+443,420,Salisu,2,Southampton,77.4,17,Leeds,44,False,25,109.2,510.4,154.0,30712,33896,,0.3
+444,422,Bazunu,1,Southampton,49.4,17,Leeds,45,False,25,10.0,484.8,0.0,70735,83978,,3.7
+445,423,Bella-Kotchap,2,Southampton,34.6,17,Leeds,45,False,25,37.2,226.0,81.0,36401,37474,100,1.7
+446,424,Caballero,1,Southampton,0.0,17,Leeds,39,False,25,0.0,0.0,0.0,32518,65513,,0.0
+447,512,Aribo,3,Southampton,70.2,17,Leeds,51,False,25,133.3,204.4,362.0,57428,95389,,0.3
+448,528,Mara,4,Southampton,20.2,17,Leeds,53,False,25,51.3,42.2,118.0,20600,24701,,0.0
+449,623,Caleta-Car,2,Southampton,21.2,17,Leeds,45,False,25,14.3,164.0,33.0,4208,3691,100,0.0
+450,624,Edozie,3,Southampton,28.6,17,Leeds,47,False,25,84.7,76.8,125.0,2473,2072,,1.0
+451,671,Morgan,4,Southampton,0.0,17,Leeds,45,False,25,0.0,0.0,0.0,4019,2395,,0.0
+452,692,Orsic,3,Southampton,0.2,17,Leeds,53,False,25,0.3,2.0,0.0,4006,2796,,0.0
+453,693,Alcaraz,3,Southampton,9.5,17,Leeds,50,False,25,13.4,51.2,30.0,1522,475,,4.0
+454,716,Bree,2,Southampton,9.2,17,Leeds,45,False,25,58.4,32.4,2.0,526,217,,1.0
+455,731,Kamaldeen,3,Southampton,11.2,17,Leeds,50,False,25,37.4,16.2,59.0,1622,292,,1.3
+456,732,Onuachu,4,Southampton,11.0,17,Leeds,55,False,25,38.3,17.4,56.0,4518,1076,,1.3
+457,426,Forster,1,Spurs,5.2,18,Chelsea,39,True,25,0.0,51.6,0.0,180402,342115,,1.5
+458,427,Kane,4,Spurs,258.6,18,Chelsea,118,True,25,515.4,797.2,1273.0,5358707,3982677,100,5.2
+459,428,Son,3,Spurs,150.7,18,Chelsea,116,True,25,492.5,405.2,612.0,1261927,2925987,100,4.0
+460,430,Dier,2,Spurs,79.6,18,Chelsea,51,True,25,90.3,489.4,217.0,1435214,1282171,,4.5
+461,431,Lucas Moura,3,Spurs,6.9,18,Chelsea,58,True,25,19.7,23.6,26.0,12760,41618,100,0.2
+462,432,Davies,2,Spurs,66.1,18,Chelsea,48,True,25,197.2,329.4,133.0,231204,204625,100,6.8
+463,433,Højbjerg,3,Spurs,109.6,18,Chelsea,55,True,25,340.3,560.0,195.0,719155,629483,100,3.8
+464,435,Sánchez,2,Spurs,20.6,18,Chelsea,43,True,25,25.6,132.4,48.0,75383,113893,,0.5
+465,439,Tanganga,2,Spurs,3.0,18,Chelsea,39,True,25,6.2,24.4,0.0,238617,372624,,0.2
+466,441,Skipp,3,Spurs,11.7,18,Chelsea,43,True,25,59.1,35.0,23.0,13526,19338,100,0.5
+467,443,Romero,2,Spurs,36.8,18,Chelsea,49,True,25,59.1,250.4,59.0,194250,348125,100,3.5
+468,445,Emerson Royal,2,Spurs,65.3,18,Chelsea,49,True,25,152.1,305.0,196.0,750300,754204,100,7.8
+469,446,Kulusevski,3,Spurs,101.5,18,Chelsea,79,True,25,373.4,284.6,356.0,1997554,2471558,100,2.8
+470,448,Perišić,2,Spurs,104.1,18,Chelsea,55,True,25,513.2,298.2,232.0,3496971,3863961,,3.0
+471,450,Sarr,3,Spurs,4.4,18,Chelsea,42,True,25,14.8,25.0,3.0,87992,106372,100,0.5
+472,451,Austin,1,Spurs,0.0,18,Chelsea,39,True,25,0.0,0.0,0.0,15279,22146,,0.0
+473,452,Devine,3,Spurs,0.0,18,Chelsea,43,True,25,0.0,0.0,0.0,8051,12532,,0.0
+474,454,Richarlison,4,Spurs,49.9,18,Chelsea,84,True,25,139.5,106.8,252.0,193069,223472,100,1.0
+475,513,Lenglet,2,Spurs,38.8,18,Chelsea,48,True,25,90.3,224.2,74.0,38072,63780,100,1.5
+476,713,Danjuma,3,Spurs,2.1,18,Chelsea,64,True,25,14.8,6.0,0.0,5030,2296,,0.3
+477,733,Pedro Porro,2,Spurs,1.3,18,Chelsea,49,True,25,4.8,8.0,0.0,34536,9468,,0.3
+478,30,Ings,4,West Ham,86.6,19,Nott'm Forest,64,True,25,134.7,287.2,448.0,363105,474216,100,1.0
+479,455,Fabianski,1,West Ham,48.7,19,Nott'm Forest,50,True,25,0.0,488.4,0.0,173676,198762,100,2.3
+480,456,Ogbonna,2,West Ham,11.9,19,Nott'm Forest,44,True,25,22.1,81.8,14.0,5588,10566,100,1.7
+481,457,Cresswell,2,West Ham,85.3,19,Nott'm Forest,47,True,25,478.9,305.8,66.0,355498,532822,100,0.0
+482,458,Antonio,4,West Ham,68.1,19,Nott'm Forest,70,True,25,156.6,173.6,354.0,211071,530428,100,1.7
+483,460,Lanzini,3,West Ham,2.5,19,Nott'm Forest,51,True,25,6.1,4.4,16.0,14044,34785,100,0.0
+484,463,Coufal,2,West Ham,48.0,19,Nott'm Forest,41,True,25,213.1,226.4,39.0,236417,264573,100,1.3
+485,464,Benrahma,3,West Ham,101.7,19,Nott'm Forest,55,True,25,368.5,279.2,372.0,168663,314872,,1.7
+486,465,Bowen,3,West Ham,161.4,19,Nott'm Forest,80,True,25,478.8,379.6,755.0,898324,1267167,100,3.0
+487,467,Rice,3,West Ham,95.3,19,Nott'm Forest,47,True,25,365.7,451.2,136.0,351608,665479,,3.7
+488,468,Soucek,3,West Ham,80.3,19,Nott'm Forest,51,True,25,146.1,365.0,290.0,103621,213475,,1.7
+489,469,Fornals,3,West Ham,42.7,19,Nott'm Forest,49,True,25,179.3,134.4,115.0,77504,178479,,0.7
+490,471,Johnson,2,West Ham,18.2,19,Nott'm Forest,44,True,25,61.1,118.2,2.0,5635,12746,100,1.0
+491,472,Aguerd,2,West Ham,16.4,19,Nott'm Forest,48,True,25,13.4,123.0,27.0,20406,17340,100,1.3
+492,473,Areola,1,West Ham,0.1,19,Nott'm Forest,43,True,25,0.0,1.4,0.0,59559,127169,100,0.0
+493,509,Downes,3,West Ham,7.7,19,Nott'm Forest,42,True,25,19.2,20.4,36.0,53572,64628,,1.3
+494,529,Scamacca,4,West Ham,62.0,19,Nott'm Forest,66,True,25,160.7,151.8,312.0,419637,481318,100,0.0
+495,545,Emerson,2,West Ham,33.8,19,Nott'm Forest,40,True,25,96.8,105.6,135.0,456028,367250,100,4.3
+496,588,Kehrer,2,West Ham,33.4,19,Nott'm Forest,44,True,25,44.0,215.6,72.0,78232,67136,100,1.3
+497,669,Mubama,4,West Ham,0.0,19,Nott'm Forest,45,True,25,0.1,0.0,0.0,5476,2911,,0.0
+498,739,Anang,1,West Ham,0.0,19,Nott'm Forest,40,True,25,0.0,0.0,0.0,419,153,,0.0
+499,740,Hegyi,1,West Ham,0.0,19,Nott'm Forest,39,True,25,0.0,0.0,0.0,726,227,,0.0
+500,746,Casey,2,West Ham,0.0,19,Nott'm Forest,40,True,25,0.0,0.0,0.0,124,24,,0.0
+501,459,Dawson,2,Wolves,34.9,20,Fulham,48,False,25,29.2,211.6,108.0,87502,49277,100,5.7
+502,476,Jiménez,4,Wolves,21.2,20,Fulham,67,False,25,42.2,16.8,153.0,96019,108236,100,0.7
+503,477,Jonny,2,Wolves,32.7,20,Fulham,43,False,25,85.6,171.6,68.0,127546,164115,100,0.7
+504,478,Sá,1,Wolves,52.5,20,Fulham,50,False,25,0.0,525.2,0.0,873226,785759,,3.3
+505,480,Neves,3,Wolves,109.0,20,Fulham,54,False,25,266.5,569.8,254.0,447395,377275,100,5.0
+506,482,Semedo,2,Wolves,46.0,20,Fulham,50,False,25,158.0,266.6,37.0,104710,64620,100,3.0
+507,483,Podence,3,Wolves,117.7,20,Fulham,53,False,25,388.8,307.4,482.0,257060,304677,100,0.7
+508,484,Kilman,2,Wolves,58.2,20,Fulham,44,False,25,26.9,484.4,68.0,690929,416533,100,5.0
+509,486,Neto,3,Wolves,42.0,20,Fulham,49,False,25,197.8,59.0,163.0,211958,1554103,100,0.0
+510,487,Aït-Nouri,2,Wolves,46.7,20,Fulham,42,False,25,129.5,181.2,154.0,160790,246225,100,2.0
+511,489,Toti,2,Wolves,10.0,20,Fulham,39,False,25,12.9,83.4,4.0,287448,231318,100,0.0
+512,491,Adama,3,Wolves,61.3,20,Fulham,54,False,25,276.8,170.8,166.0,48880,51133,100,3.3
+513,503,Moutinho,3,Wolves,81.5,20,Fulham,47,False,25,460.9,253.0,100.0,29123,167539,100,1.3
+514,516,Collins,2,Wolves,40.0,20,Fulham,44,False,25,35.4,342.0,20.0,182956,183651,100,0.0
+515,558,Bueno,2,Wolves,43.6,20,Fulham,39,False,25,185.9,177.6,70.0,1016819,428693,,1.0
+516,566,Hodge,3,Wolves,5.7,20,Fulham,44,False,25,16.2,14.4,26.0,7693,8029,,0.0
+517,589,Matheus,3,Wolves,67.8,20,Fulham,48,False,25,254.0,188.6,237.0,55527,46950,100,2.3
+518,625,Diego Costa,4,Wolves,44.1,20,Fulham,54,False,25,65.5,23.0,359.0,160238,141864,100,0.7
+519,657,Fraser,4,Wolves,0.0,20,Fulham,45,False,25,0.0,0.0,0.0,14143,8618,,0.0
+520,658,Griffiths,3,Wolves,0.0,20,Fulham,44,False,25,0.0,0.0,0.0,1352,931,,0.0
+521,664,Lembikisa,2,Wolves,0.2,20,Fulham,40,False,25,0.8,1.4,0.0,2092,1373,,0.0
+522,682,Cunha,4,Wolves,14.5,20,Fulham,55,False,25,38.5,24.0,86.0,35758,12018,,1.3
+523,698,Lemina,3,Wolves,4.8,20,Fulham,45,False,25,19.6,27.4,2.0,474,215,100,0.3
+524,704,Sarabia,3,Wolves,15.5,20,Fulham,55,False,25,84.5,20.2,53.0,17227,2697,,1.3
+525,717,Bentley,1,Wolves,0.0,20,Fulham,40,False,25,0.0,0.0,0.0,1074,244,,0.0

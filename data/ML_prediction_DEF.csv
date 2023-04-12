@@ -1,0 +1,178 @@
+﻿,name,player_team_name,opp_team_name,value,GW,first_name,total_points
+0,Holding,Arsenal,West Ham,42,31,Rob,0.458644095860544
+1,Tierney,Arsenal,West Ham,46,31,Kieran,1.1740670100091402
+2,White,Arsenal,West Ham,49,31,Benjamin,5.354977575000175
+3,Gabriel,Arsenal,West Ham,53,31,Gabriel,7.23266475082911
+4,Zinchenko,Arsenal,West Ham,52,31,Oleksandr,4.341300450104334
+5,Sousa,Arsenal,West Ham,40,31,Lino,-0.17571829967437935
+6,Kiwior,Arsenal,West Ham,40,31,Jakub,-0.2909443168136441
+7,Walters,Arsenal,West Ham,40,31,Reuell,-0.17571829967437935
+8,Chambers,Aston Villa,Newcastle,42,31,Calum,0.6237911560904017
+9,Digne,Aston Villa,Newcastle,46,31,Lucas,2.8383360258788812
+10,Mings,Aston Villa,Newcastle,45,31,Tyrone,4.709639032375982
+11,Konsa,Aston Villa,Newcastle,44,31,Ezri,4.3048343109579
+12,Diego Carlos,Aston Villa,Newcastle,47,31,Diego Carlos,0.6020634224845196
+13,Young,Aston Villa,Newcastle,43,31,Ashley,3.2729112092758434
+14,Álex Moreno,Aston Villa,Newcastle,44,31,Alexandre,2.2428123413186305
+15,Swinkels,Aston Villa,Newcastle,40,31,Sil,0.05258554214774924
+16,Revan,Aston Villa,Newcastle,40,31,Sebastian,0.05258554214774924
+17,Smith,Bournemouth,Spurs,43,31,Adam,3.23226250612555
+18,Stacey,Bournemouth,Spurs,43,31,Jack,0.2631003067681792
+19,Mepham,Bournemouth,Spurs,43,31,Chris,4.088003948403642
+20,Kelly,Bournemouth,Spurs,43,31,Lloyd,2.406813844741642
+21,Zemura,Bournemouth,Spurs,43,31,Jordan,2.662394263492292
+22,Stephens,Bournemouth,Spurs,43,31,Jack,2.0919167020778966
+23,Senesi,Bournemouth,Spurs,44,31,Marcos,4.660664089417342
+24,Viña,Bournemouth,Spurs,45,31,Matías,-0.03475160534044619
+25,Zabarnyi,Bournemouth,Spurs,45,31,Illia,-0.45215471080130953
+26,Greenwood,Bournemouth,Spurs,40,31,Ben,-0.1737585568947746
+27,Kinsey-Wellings,Bournemouth,Spurs,40,31,Max,-0.1737585568947746
+28,Jansson,Brentford,Wolves,42,31,Pontus,1.5910645423008392
+29,Henry,Brentford,Wolves,46,31,Rico,4.285145346721878
+30,Roerslev,Brentford,Wolves,43,31,Mads,1.4983744143810496
+31,Pinnock,Brentford,Wolves,44,31,Ethan,6.167207349530747
+32,Hickey,Brentford,Wolves,49,31,Aaron,1.9367561221040734
+33,Mee,Brentford,Wolves,51,31,Ben,6.06732541273361
+34,Zanka,Brentford,Wolves,40,31,Mathias,1.3720870014259239
+35,Crama,Brentford,Wolves,40,31,Tristan,-0.17277868550497222
+36,Dunk,Brighton,Chelsea,47,31,Lewis,5.19516161780485
+37,Webster,Brighton,Chelsea,45,31,Adam,2.8656733990023993
+38,Veltman,Brighton,Chelsea,46,31,Joël,4.061128345241364
+39,Van Hecke,Brighton,Chelsea,40,31,Jan Paul,-0.027908038756755627
+40,Estupiñán,Brighton,Chelsea,48,31,Pervis,4.546668797578172
+41,Offiah,Brighton,Chelsea,40,31,Odeluga,-0.17179881411516984
+42,Cucurella,Chelsea,Brighton,50,31,Marc,3.85317813319676
+43,Azpilicueta,Chelsea,Brighton,47,31,César,2.600244033601366
+44,Thiago Silva,Chelsea,Brighton,54,31,Thiago,5.546240345821303
+45,Chilwell,Chelsea,Brighton,60,31,Ben,3.477230252446625
+46,Chalobah,Chelsea,Brighton,44,31,Trevoh,1.8364767353054607
+47,James,Chelsea,Brighton,58,31,Reece,3.977423223961578
+48,W.Fofana,Chelsea,Brighton,43,31,Wesley,2.369787566754247
+49,Koulibaly,Chelsea,Brighton,55,31,Kalidou,5.2937042856281655
+50,Badiashile,Chelsea,Brighton,50,31,Benoît,1.8650368562577282
+51,Tomkins,Crystal Palace,Southampton,39,31,James,0.7325287670741822
+52,Ward,Crystal Palace,Southampton,44,31,Joel,2.463492560358935
+53,Clyne,Crystal Palace,Southampton,45,31,Nathaniel,1.841837578296476
+54,Andersen,Crystal Palace,Southampton,45,31,Joachim,5.538545981206815
+55,Guéhi,Crystal Palace,Southampton,44,31,Marc,5.414959084378356
+56,Mitchell,Crystal Palace,Southampton,44,31,Tyrick,3.663488000251321
+57,Balmer,Crystal Palace,Southampton,40,31,Kofi,-0.16983907133556508
+58,Coleman,Everton,Fulham,43,31,Seamus,3.0695183595754
+59,Keane,Everton,Fulham,42,31,Michael,1.7073383162281885
+60,Mina,Everton,Fulham,43,31,Yerry,1.080934675981117
+61,Holgate,Everton,Fulham,42,31,Mason,1.0348303942197523
+62,Godfrey,Everton,Fulham,43,31,Ben,1.3999112400995006
+63,Mykolenko,Everton,Fulham,41,31,Vitalii,4.362152953408227
+64,Patterson,Everton,Fulham,39,31,Nathan,2.0080180281112883
+65,Tarkowski,Everton,Fulham,42,31,James,8.6974451423288
+66,Coady,Everton,Fulham,48,31,Conor,4.004964900666844
+67,Vinagre,Everton,Fulham,43,31,Rúben,0.24727444976171054
+68,Welch,Everton,Fulham,40,31,Reece,0.05846477048656351
+69,John,Everton,Fulham,40,31,Kyle,0.05846477048656351
+70,Cédric,Fulham,Everton,42,31,Cédric,0.17511840396660738
+71,Duffy,Fulham,Everton,43,31,Shane,-1.2129138588837027
+72,Ream,Fulham,Everton,46,31,Tim,4.967271727723423
+73,Tosin,Fulham,Everton,44,31,Tosin,2.963655904429662
+74,Tete,Fulham,Everton,44,31,Kenny,4.516869504617431
+75,Robinson,Fulham,Everton,44,31,Antonee,4.135114250408641
+76,Diop,Fulham,Everton,43,31,Issa,3.186661163208128
+77,Parkes,Fulham,Everton,40,31,Stefan,-0.16787932855596033
+78,C.Robinson,Fulham,Everton,40,31,Charlie,-0.16787932855596033
+79,Evans,Leicester,Man City,44,31,Jonny,1.5675894777400763
+80,Vestergaard,Leicester,Man City,38,31,Jannik,-0.23080499882065664
+81,Ricardo,Leicester,Man City,43,31,Ricardo,1.234879789323383
+82,Amartey,Leicester,Man City,40,31,Daniel,3.1061127116503204
+83,Castagne,Leicester,Man City,44,31,Timothy,5.861576986055245
+84,Söyüncü,Leicester,Man City,42,31,Çaglar,0.020169043559994382
+85,Thomas,Leicester,Man City,39,31,Luke,0.8027785009645427
+86,Brunt,Leicester,Man City,39,31,Lewis,-0.25755863809876645
+87,Faes,Leicester,Man City,42,31,Wout,4.554430519487185
+88,Wormleighton,Leicester,Man City,40,31,Joe,-0.16689945716615795
+89,Kristiansen,Leicester,Man City,45,31,Victor,1.1019908784955645
+90,Souttar,Leicester,Man City,45,31,Harry,1.8158642442220398
+91,Cooper,Leeds,Liverpool,44,31,Liam,2.7943430136417637
+92,Ayling,Leeds,Liverpool,45,31,Luke,3.9961682491514496
+93,Koch,Leeds,Liverpool,45,31,Robin,4.875477126258258
+94,Struijk,Leeds,Liverpool,45,31,Pascal,5.6061934456324884
+95,Firpo,Leeds,Liverpool,45,31,Junior,2.524520603992669
+96,Kristensen,Leeds,Liverpool,47,31,Rasmus,3.825598731651117
+97,Chilokoa-Mullen,Leeds,Liverpool,40,31,Jeremiah,0.06140438465597042
+98,Monteiro,Leeds,Liverpool,40,31,Diogo,0.06140438465597042
+99,Matip,Liverpool,Leeds,59,31,Joel,2.031872490637825
+100,Van Dijk,Liverpool,Leeds,65,31,Virgil,6.565831469749511
+101,Robertson,Liverpool,Leeds,68,31,Andrew,5.5894387788835616
+102,Alexander-Arnold,Liverpool,Leeds,73,31,Trent,6.788604295199025
+103,Gomez,Liverpool,Leeds,43,31,Joseph,2.622638341023972
+104,Konaté,Liverpool,Leeds,48,31,Ibrahima,2.0632413822880586
+105,Tsimikas,Liverpool,Leeds,43,31,Konstantinos,2.09191600008943
+106,Phillips,Liverpool,Leeds,38,31,Nathaniel,-0.020921997136353232
+107,Walker,Man City,Leicester,47,31,Kyle,1.8041151054347027
+108,Stones,Man City,Leicester,54,31,John,3.22134535695504
+109,Aké,Man City,Leicester,51,31,Nathan,3.7759318647941678
+110,Laporte,Man City,Leicester,57,31,Aymeric,1.7877453538237957
+111,Dias,Man City,Leicester,60,31,Rúben,4.016406229523308
+112,Lewis,Man City,Leicester,39,31,Rico,0.9124694147928714
+113,Sergio Gómez,Man City,Leicester,44,31,Sergio,0.7224336406381231
+114,Akanji,Man City,Leicester,50,31,Manuel,3.7311589531201745
+115,Jones,Man Utd,Nott'm Forest,38,31,Phil,-0.22688551326144712
+116,Varane,Man Utd,Nott'm Forest,48,31,Raphaël,3.513238607723949
+117,Maguire,Man Utd,Nott'm Forest,47,31,Harry,1.612387396524909
+118,Shaw,Man Utd,Nott'm Forest,51,31,Luke,4.704296199380629
+119,Lindelöf,Man Utd,Nott'm Forest,41,31,Victor,0.908134024306182
+120,Wan-Bissaka,Man Utd,Nott'm Forest,43,31,Aaron,1.8360791027242813
+121,Dalot,Man Utd,Nott'm Forest,47,31,Diogo,4.667967392049979
+122,B.Williams,Man Utd,Nott'm Forest,38,31,Brandon,-0.22688551326144712
+123,Malacia,Man Utd,Nott'm Forest,42,31,Tyrell,1.7800184661450968
+124,Martínez,Man Utd,Nott'm Forest,45,31,Lisandro,5.2113420551736525
+125,Bennett,Man Utd,Nott'm Forest,40,31,Rhys,-0.16297997160694844
+126,Ritchie,Newcastle,Aston Villa,42,31,Matt,0.024163581547295143
+127,Trippier,Newcastle,Aston Villa,62,31,Kieran,8.39651394956472
+128,Burn,Newcastle,Aston Villa,45,31,Dan,4.402836900001037
+129,Lascelles,Newcastle,Aston Villa,43,31,Jamaal,0.25114925603472726
+130,Dummett,Newcastle,Aston Villa,39,31,Paul,-0.1939528710443954
+131,Manquillo,Newcastle,Aston Villa,42,31,Javier,-0.21118784734014806
+132,Schär,Newcastle,Aston Villa,51,31,Fabian,6.276821205969575
+133,Targett,Newcastle,Aston Villa,47,31,Matt,0.9114830232348727
+134,Lewis,Newcastle,Aston Villa,44,31,Jamal,-0.31492519844929445
+135,Botman,Newcastle,Aston Villa,45,31,Sven,4.6389341990044
+136,Ashby,Newcastle,Aston Villa,38,31,Harrison,-0.22590564187164475
+137,N.Williams,Nott'm Forest,Man Utd,38,31,Neco,3.350868828979853
+138,Cook,Nott'm Forest,Man Utd,43,31,Steve,1.7759641864877964
+139,McKenna,Nott'm Forest,Man Utd,44,31,Scott,2.64866208288925
+140,Worrall,Nott'm Forest,Man Utd,42,31,Joe,3.7158812087896704
+141,Niakhaté,Nott'm Forest,Man Utd,43,31,Moussa,0.9067746753203747
+142,Toffolo,Nott'm Forest,Man Utd,43,31,Harry,1.727685762015021
+143,Renan Lodi,Nott'm Forest,Man Utd,43,31,Renan Augusto,2.5081746770044084
+144,Aurier,Nott'm Forest,Man Utd,44,31,Serge,3.722708298711857
+145,Felipe,Nott'm Forest,Man Utd,45,31,Felipe Augusto,2.4982522107500014
+146,Walker-Peters,Southampton,Crystal Palace,44,31,Kyle,3.658721325359208
+147,Bednarek,Southampton,Crystal Palace,42,31,Jan,2.460427625630083
+148,Lyanco,Southampton,Crystal Palace,44,31,Lyanco,1.5509006334128803
+149,Perraud,Southampton,Crystal Palace,41,31,Romain,4.245862699659996
+150,Bella-Kotchap,Southampton,Crystal Palace,45,31,Armel,3.330135597474108
+151,Caleta-Car,Southampton,Crystal Palace,44,31,Duje,1.900730351514567
+152,Bree,Southampton,Crystal Palace,45,31,James,0.625050020965781
+153,Dier,Spurs,Bournemouth,51,31,Eric,6.407802212480782
+154,Sánchez,Spurs,Bournemouth,42,31,Davinson,1.463556218319214
+155,Tanganga,Spurs,Bournemouth,38,31,Japhet,0.15794734401966215
+156,Romero,Spurs,Bournemouth,49,31,Cristian,3.9949853071718673
+157,Perišić,Spurs,Bournemouth,53,31,Ivan,5.737958790556322
+158,Lenglet,Spurs,Bournemouth,48,31,Clément,3.5552176086855365
+159,Pedro Porro,Spurs,Bournemouth,48,31,Pedro,1.7484031094077905
+160,Ogbonna,West Ham,Arsenal,44,31,Angelo,1.4084376833825085
+161,Cresswell,West Ham,Arsenal,47,31,Aaron,3.8499636452499084
+162,Zouma,West Ham,Arsenal,44,31,Kurt,4.113254442874536
+163,Coufal,West Ham,Arsenal,40,31,Vladimir,2.6538387122023606
+164,Johnson,West Ham,Arsenal,44,31,Ben,1.5323621294799392
+165,Aguerd,West Ham,Arsenal,48,31,Nayef,2.625768646950502
+166,Emerson,West Ham,Arsenal,40,31,Emerson,2.2094769937408354
+167,Kehrer,West Ham,Arsenal,43,31,Thilo,2.8697213413052003
+168,Casey,West Ham,Arsenal,40,31,Kaelan,0.06924335577438945
+169,Dawson,Wolves,Brentford,48,31,Craig,3.7228787466112463
+170,Semedo,Wolves,Brentford,50,31,Nélson,3.9369010822653463
+171,Kilman,Wolves,Brentford,43,31,Max,5.79629135646267
+172,Aït-Nouri,Wolves,Brentford,42,31,Rayan,2.511474679976751
+173,Toti,Wolves,Brentford,38,31,Toti António,1.2407903370400422
+174,Collins,Wolves,Brentford,43,31,Nathan,3.456132177338956
+175,Bueno,Wolves,Brentford,38,31,Hugo,2.0756727404611977
+176,Lembikisa,Wolves,Brentford,40,31,Dexter,0.0047140277411241716
