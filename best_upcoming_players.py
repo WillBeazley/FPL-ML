@@ -144,6 +144,53 @@ def tk_window():
     window.table.heading("Gameweek", text="Gameweek")
     window.table.heading("Predicted Points", text="Predicted Points")
 
+    def gk_clicked():
+        players = (predictions_random("GK"))
+        players = double.double_gw(players)
+        #retrieve the price from the slider
+        price = window.slider.get()
+        gk_df = players[players["value"] <= price*10].sort_values(by="total_points", ascending=False).iloc[[0,1,2,4,5],[5,0,1,2,3,4,6]]
+        #update the table with the players
+        data = gk_df[0:].values.tolist()
+        window.table.delete(*window.table.get_children())
+        for i in data:
+            window.table.insert("", "end", values=i)
+        print(gk_df)
+
+    def def_clicked():
+        players = (predictions_random("DEF"))
+        players = double.double_gw(players)
+        price = window.slider.get()
+        def_df = players[players["value"] <= price*10].sort_values(by="total_points", ascending=False).iloc[[0,1,2,4,5],[5,0,1,2,3,4,6]]
+        data = def_df[0:].values.tolist()
+        window.table.delete(*window.table.get_children())
+        for i in data:
+            window.table.insert("", "end", values=i)
+        print(def_df)
+
+    def mid_clicked():
+        players = (predictions_random("MID"))
+        players = double.double_gw(players)
+        price = window.slider.get()
+        mid_df = players[players["value"] <= price*10].sort_values(by="total_points", ascending=False).iloc[[0,1,2,4,5],[5,0,1,2,3,4,6]]
+        data = mid_df[0:].values.tolist()
+        window.table.delete(*window.table.get_children())
+        for i in data:
+            window.table.insert("", "end", values=i)
+        print(mid_df)
+
+    def fwd_clicked():
+        players = (predictions_random("FWD"))
+        players = double.double_gw(players)
+        price = window.slider.get()
+        fwd_df = players[players["value"] <= price*10].sort_values(by="total_points", ascending=False).iloc[[0,1,2,4,5],[5,0,1,2,3,4,6]]
+        data = fwd_df[0:].values.tolist()
+        window.table.delete(*window.table.get_children())
+        for i in data:
+            window.table.insert("", "end", values=i)
+        print(fwd_df)
+
+
     #move the table, slider and buttons to the middle of the window
     window.grid_rowconfigure(0, weight=1)
     window.grid_rowconfigure(1, weight=1)
@@ -155,13 +202,10 @@ def tk_window():
     window.grid_columnconfigure(3, weight=1)
 
     #make the buttons bigger and rounder and add a border
-    window.gk_button.config(height=2, width=10, relief="groove", borderwidth=5, bg="black", fg="white", font=("Arial", 20, "bold"))
-    window.def_button.config(height=2, width=10, relief="groove", borderwidth=5, bg="black", fg="white", font=("Arial", 20, "bold"))
-    window.mid_button.config(height=2, width=10, relief="groove", borderwidth=5, bg="black", fg="white", font=("Arial", 20, "bold"))
-    window.fwd_button.config(height=2, width=10, relief="groove", borderwidth=5, bg="black", fg="white", font=("Arial", 20, "bold"))
-
-
-
+    window.gk_button.config(height=2, width=10, relief="groove", borderwidth=5, bg="black", fg="white", font=("Arial", 20, "bold"), command=gk_clicked)
+    window.def_button.config(height=2, width=10, relief="groove", borderwidth=5, bg="black", fg="white", font=("Arial", 20, "bold"), command=def_clicked)
+    window.mid_button.config(height=2, width=10, relief="groove", borderwidth=5, bg="black", fg="white", font=("Arial", 20, "bold"), command=mid_clicked)
+    window.fwd_button.config(height=2, width=10, relief="groove", borderwidth=5, bg="black", fg="white", font=("Arial", 20, "bold"), command=fwd_clicked)
 
     #open the window
     window.mainloop()
