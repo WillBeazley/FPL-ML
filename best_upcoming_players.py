@@ -98,12 +98,15 @@ def tk_window():
     window.resizable(False, False)
     #make the window bigger and equal to the size of the screen
     window.state("zoomed")
+    #make the window background white
+    window.config(bg="#00ff85")
 
     #create 4 buttons for each position
     window.gk_button = tk.Button(window, text="GK")    
     window.def_button = tk.Button(window, text="DEF")
     window.mid_button = tk.Button(window, text="MID")
     window.fwd_button = tk.Button(window, text="FWD")
+
 
     #place the buttons on the window
     #place the buttons closer to the top of the window
@@ -118,21 +121,24 @@ def tk_window():
     window.columnconfigure(3, weight=1)
 
     #make the buttons change colour when the mouse hovers over them
-    window.gk_button.bind("<Enter>", lambda event: window.gk_button.config(bg="white", fg="black"))
-    window.gk_button.bind("<Leave>", lambda event: window.gk_button.config(bg="black", fg="white"))
-    window.def_button.bind("<Enter>", lambda event: window.def_button.config(bg="white", fg="black"))
-    window.def_button.bind("<Leave>", lambda event: window.def_button.config(bg="black", fg="white"))
-    window.mid_button.bind("<Enter>", lambda event: window.mid_button.config(bg="white", fg="black"))
-    window.mid_button.bind("<Leave>", lambda event: window.mid_button.config(bg="black", fg="white"))
-    window.fwd_button.bind("<Enter>", lambda event: window.fwd_button.config(bg="white", fg="black"))
-    window.fwd_button.bind("<Leave>", lambda event: window.fwd_button.config(bg="black", fg="white"))
+    window.gk_button.bind("<Enter>", lambda event: window.gk_button.config(bg="#04f5ff", fg="#38003c"))
+    window.gk_button.bind("<Leave>", lambda event: window.gk_button.config(bg="#38003c", fg="white"))
+    window.def_button.bind("<Enter>", lambda event: window.def_button.config(bg="#04f5ff", fg="#38003c"))
+    window.def_button.bind("<Leave>", lambda event: window.def_button.config(bg="#38003c", fg="white"))
+    window.mid_button.bind("<Enter>", lambda event: window.mid_button.config(bg="#04f5ff", fg="#38003c"))
+    window.mid_button.bind("<Leave>", lambda event: window.mid_button.config(bg="#38003c", fg="white"))
+    window.fwd_button.bind("<Enter>", lambda event: window.fwd_button.config(bg="#04f5ff", fg="#38003c"))
+    window.fwd_button.bind("<Leave>", lambda event: window.fwd_button.config(bg="#38003c", fg="white"))
     
     #create a slider to select the price of the player and place it on the window
     #move the slider closer to the top of the window
     window.slider = tk.Scale(window, from_=3.5, to=14, orient="horizontal", length=1000, resolution=0.1)
     window.slider.grid(row=2, column=0, columnspan=4, pady=10, sticky="n")
     #make the slider button thicker
-    window.slider.config(font=("Arial", 20, "bold"), highlightthickness=0)
+    window.slider.config(font=("Arial", 20, "bold"), bg="#04f5ff", fg="#38003c", troughcolor="white", 
+                         activebackground="#38003c", highlightbackground="white", highlightcolor="white", highlightthickness=5,
+                         borderwidth=0, relief="flat")
+
 
     #create a table to display the players 
     #extend the table up closer to the top of the window
@@ -146,6 +152,8 @@ def tk_window():
     window.table.heading("Value", text="Value")
     window.table.heading("Gameweek", text="Gameweek")
     window.table.heading("Predicted Points", text="Predicted Points")
+    #change the colour of the table to #04f5ff using ttk.treeview syntax
+    window.table.tag_configure("Treeview", background="#04f5ff", foreground="#38003c")
 
 
 
@@ -207,10 +215,10 @@ def tk_window():
     window.grid_columnconfigure(3, weight=1)
 
     #make the buttons bigger and rounder and add a border
-    window.gk_button.config(height=2, width=10, relief="groove", borderwidth=5, bg="black", fg="white", font=("Arial", 20, "bold"), command=gk_clicked)
-    window.def_button.config(height=2, width=10, relief="groove", borderwidth=5, bg="black", fg="white", font=("Arial", 20, "bold"), command=def_clicked)
-    window.mid_button.config(height=2, width=10, relief="groove", borderwidth=5, bg="black", fg="white", font=("Arial", 20, "bold"), command=mid_clicked)
-    window.fwd_button.config(height=2, width=10, relief="groove", borderwidth=5, bg="black", fg="white", font=("Arial", 20, "bold"), command=fwd_clicked)
+    window.gk_button.config(height=2, width=10, relief="groove", borderwidth=5, bg="#38003c", fg="#ffffff", font=("Arial", 20, "bold"), command=gk_clicked)
+    window.def_button.config(height=2, width=10, relief="groove", borderwidth=5, bg="#38003c", fg="#ffffff", font=("Arial", 20, "bold"), command=def_clicked)
+    window.mid_button.config(height=2, width=10, relief="groove", borderwidth=5, bg="#38003c", fg="#ffffff", font=("Arial", 20, "bold"), command=mid_clicked)
+    window.fwd_button.config(height=2, width=10, relief="groove", borderwidth=5, bg="#38003c", fg="#ffffff", font=("Arial", 20, "bold"), command=fwd_clicked)
 
     #open the window
     window.mainloop()
