@@ -90,50 +90,14 @@ def GUI():
 GUI()
 """
 
-#create a function that creates a tkinter window with a slider and a table
-#the slider will be used to select the price of the player
-#the table will display the players with the highest predicted points
-#the table will be sorted by predicted points
-#the table will only display players with a value less than the slider value
-#the table will only display the top 5 players
-#the table will display the players first name, last name, team, opponent, value, gameweek, predicted points
-
-#the function will take in a position as a parameter
-#the function will return the top 5 players for that position
-
-#the function will use the predictions_random function to get the predicted points for each player
-#the function will use the double_gw function to get the double gameweek players
-#the function will use the slider value to get the players with a value less than the slider value
-#the function will use the table to display the players
-
-#the function will use the tkinter library to create the window
-#the function will use the tkinter table to display the players
-
-#the function will use the tkinter slider to get the slider value
-
-#the function will use the tkinter button to get the button value
-
-#the function will use the tkinter window to display the window
-
-#the function will use the tkinter window to close the window
-
-#the function will use the tkinter window to get the window value
-
-#the function will use the tkinter window to get the window event
-
-#the function will use the tkinter window to get the window values
-
-#the function will use the tkinter window to get the window event
-
-#the function will use the tkinter library to create the window
-
 
 def tk_window():
     window = tk.Tk()
     window.title("Best Players")
     window.geometry("1200x380")
     window.resizable(False, False)
-
+    #make the window bigger and equal to the size of the screen
+    window.state("zoomed")
 
     #create 4 buttons for each position
     window.gk_button = tk.Button(window, text="GK")    
@@ -163,10 +127,10 @@ def tk_window():
     window.fwd_button.bind("<Leave>", lambda event: window.fwd_button.config(bg="black", fg="white"))
     
     #create a slider to select the price of the player and place it on the window
-    window.slider = tk.Scale(window, from_=4.5, to=12, orient="horizontal", length=1000, resolution=0.1)
+    window.slider = tk.Scale(window, from_=3.5, to=14, orient="horizontal", length=1000, resolution=0.1)
     window.slider.grid(row=2, column=0, columnspan=4, pady=10)
-    #make the slider bigger
-    window.slider.config(font=("Arial", 20, "bold"))
+    #make the slider button thicker
+    window.slider.config(font=("Arial", 20, "bold"), highlightthickness=0)
 
     #create a table to display the players 
     window.table = ttk.Treeview(window, columns=("First Name", "Last Name", "Team", "Opponent", "Value", "Gameweek", "Predicted Points"), show="headings")
@@ -179,14 +143,19 @@ def tk_window():
     window.table.heading("Value", text="Value")
     window.table.heading("Gameweek", text="Gameweek")
     window.table.heading("Predicted Points", text="Predicted Points")
-    #if the user clicks on the GK button, display the top 5 goalkeepers
-    values = window.slider.get()
-    #get gk_button value as a string
-    def gk_command():
-        print("GK")
+
+    #move the table, slider and buttons to the middle of the window
+    window.grid_rowconfigure(0, weight=1)
+    window.grid_rowconfigure(1, weight=1)
+    window.grid_rowconfigure(2, weight=1)
+    window.grid_rowconfigure(3, weight=1)
+    window.grid_columnconfigure(0, weight=1)
+    window.grid_columnconfigure(1, weight=1)
+    window.grid_columnconfigure(2, weight=1)
+    window.grid_columnconfigure(3, weight=1)
 
     #make the buttons bigger and rounder and add a border
-    window.gk_button.config(height=2, width=10, relief="groove", borderwidth=5, bg="black", fg="white", font=("Arial", 20, "bold"), command=gk_command())
+    window.gk_button.config(height=2, width=10, relief="groove", borderwidth=5, bg="black", fg="white", font=("Arial", 20, "bold"))
     window.def_button.config(height=2, width=10, relief="groove", borderwidth=5, bg="black", fg="white", font=("Arial", 20, "bold"))
     window.mid_button.config(height=2, width=10, relief="groove", borderwidth=5, bg="black", fg="white", font=("Arial", 20, "bold"))
     window.fwd_button.config(height=2, width=10, relief="groove", borderwidth=5, bg="black", fg="white", font=("Arial", 20, "bold"))
