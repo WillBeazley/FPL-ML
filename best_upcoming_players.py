@@ -106,10 +106,11 @@ def tk_window():
     window.fwd_button = tk.Button(window, text="FWD")
 
     #place the buttons on the window
-    window.gk_button.grid(row=1, column=0, pady=10)
-    window.def_button.grid(row=1, column=1, pady=10)
-    window.mid_button.grid(row=1, column=2, pady=10)
-    window.fwd_button.grid(row=1, column=3, pady=10)
+    #place the buttons closer to the top of the window
+    window.gk_button.grid(row=1, column=0, pady=5, sticky="n")
+    window.def_button.grid(row=1, column=1, pady=5, sticky="n")
+    window.mid_button.grid(row=1, column=2, pady=5, sticky="n")
+    window.fwd_button.grid(row=1, column=3, pady=5, sticky="n")
     #space the buttons out evenly accross the whole window
     window.columnconfigure(0, weight=1)
     window.columnconfigure(1, weight=1)
@@ -127,14 +128,16 @@ def tk_window():
     window.fwd_button.bind("<Leave>", lambda event: window.fwd_button.config(bg="black", fg="white"))
     
     #create a slider to select the price of the player and place it on the window
+    #move the slider closer to the top of the window
     window.slider = tk.Scale(window, from_=3.5, to=14, orient="horizontal", length=1000, resolution=0.1)
-    window.slider.grid(row=2, column=0, columnspan=4, pady=10)
+    window.slider.grid(row=2, column=0, columnspan=4, pady=10, sticky="n")
     #make the slider button thicker
     window.slider.config(font=("Arial", 20, "bold"), highlightthickness=0)
 
     #create a table to display the players 
-    window.table = ttk.Treeview(window, columns=("First Name", "Last Name", "Team", "Opponent", "Value", "Gameweek", "Predicted Points"), show="headings")
-    window.table.grid(row=3, column=0, columnspan=4, pady=10)
+    #extend the table up closer to the top of the window
+    window.table = ttk.Treeview(window, columns=("First Name", "Last Name", "Team", "Opponent", "Value", "Gameweek", "Predicted Points"), show="headings", height=25)
+    window.table.grid(row=3, column=0, columnspan=4, pady=10, sticky="n")
     #label the columns of the table
     window.table.heading("First Name", text="First Name")
     window.table.heading("Last Name", text="Last Name")
@@ -143,6 +146,8 @@ def tk_window():
     window.table.heading("Value", text="Value")
     window.table.heading("Gameweek", text="Gameweek")
     window.table.heading("Predicted Points", text="Predicted Points")
+
+
 
     def gk_clicked():
         players = (predictions_random("GK"))
