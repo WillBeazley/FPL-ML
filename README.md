@@ -1,9 +1,9 @@
-Running the code:
+# Running the code:
 
 Run automation.py then run best_upcoming_players.py
 
 
-Files:
+## Files:
 
 all_seasons.py - extracts data from any data file required
 
